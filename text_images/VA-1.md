@@ -1,2 +1,2 @@
-![some bird](../images/VA-1a.jpg =100x20)
+![some bird](../images/VA-1a.jpg) { width: 200px; }
 
