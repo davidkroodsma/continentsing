@@ -1,0 +1,6 @@
+In the foreground, a tufted titmouse sings 23 times over 80 seconds, all the same song, consisting of two or three rising whistled notes, _wheeet wheeet, wheeet wheeet wheeet_. 
+
+But just listen to the singing neighbor in the background. At first (0:03), he sings a very different song consisting of three rapidly descending notes, but by 0:07, just one song later, he matches the song of the foreground male, and he continues to do so over the rest of this selection
+.
+#####Background
+Raindrops continue falling from the trees, thanks to an overnight rain. The daytime song of a northern parula can be heard, as well as another bird I can’t quite identify—perhaps a summer tanager, at 1:04, 1:11. And an American goldfinch.
