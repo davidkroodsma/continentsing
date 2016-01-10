@@ -1,7 +1,4 @@
-![va-2](../images/VA-1a.jpg)
+![va-2](../images/woth-1.jpg)
 
 Photo by John Van de Graaff
 
-![va-2](../images/VA-1b.jpg)
-
-Photo by John Van de Graaff
