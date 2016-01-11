@@ -1,7 +1,7 @@
-![American Robin](../images/VA-1a.jpg)
+![amro-1](../images/amro-1.jpg)
 
 Photo by John Van de Graaff
 
-![American Robin with young](../images/VA-1b.jpg)
+![amro-4](../images/amro-4.jpg)
 
 Photo by John Van de Graaff
