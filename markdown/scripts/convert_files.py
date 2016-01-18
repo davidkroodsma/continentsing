@@ -5,7 +5,7 @@ from os import listdir
 from os.path import isfile, join
 
 mypath = "../text_main/"
-mypath_out = "../web/main/"
+mypath_out = "../../birds/main/"
 onlyfiles = [f for f in listdir(mypath) if isfile(join(mypath, f))]
 for f in onlyfiles:
 	if ".md" in f:
@@ -22,7 +22,7 @@ for f in onlyfiles:
 		fi.close()
 
 mypath = "../text_images/"
-mypath_out = "../web/image_text/"
+mypath_out = "../../birds/image_text/"
 onlyfiles = [f for f in listdir(mypath) if isfile(join(mypath, f))]
 for f in onlyfiles:
 	if ".md" in f:
@@ -49,7 +49,7 @@ header_text_toreplace = '''<h2><a href="search.php#species-list"><span class="i-
 replacing = ['KEY','BIRDNAME','LOCATION','TIMEDATE','SUNRISE','NOTHINGHERE','NOTHINGHERE']
 
 mypath = "../text_header/"
-mypath_out = "../web/header/"
+mypath_out = "../../birds/header/"
 onlyfiles = [f for f in listdir(mypath) if isfile(join(mypath, f))]
 for f in onlyfiles:
 	if "-" in f:
