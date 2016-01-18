@@ -5,7 +5,8 @@ from PIL import Image
 from os import listdir
 from os.path import isfile, join
 
-mypath = "../images/"
+mypath = "../../images-fullsize/"
+mypathout = "../../images/"
 
 onlyfiles = [f for f in listdir(mypath) if isfile(join(mypath, f))]
 basewidth = 271
@@ -15,4 +16,4 @@ for f in onlyfiles:
 		wpercent = (basewidth / float(img.size[0]))
 		hsize = int((float(img.size[1]) * float(wpercent)))
 		img = img.resize((basewidth, hsize), PIL.Image.ANTIALIAS)
-		img.save(mypath+f)
+		img.save(mypathout+f)
