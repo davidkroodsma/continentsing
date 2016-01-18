@@ -1,0 +1,9 @@
+<h2><a href="search.php#species-list"><span class="i-bird"></span></a> YELLOW-THROATED VIREO 
+ <span class="rec-number"><a href="search.php#number-list"><span class="i-number"></span></a> MO-148
+</span></h2>				
+				<h4 class="location"><span class="i-map-marker"></span> The Ozarks: Hawn State Park, St. Genevieve, Missouri
+</h4>
+				<h4 class="date"><span class="i-calendar"></span> May 29, 7:00 a.m. 
+</h4>
+				<h4 class="sunrise"><span class="i-sun"></span> Sunrise at 5:42 a.m.
+</h4>

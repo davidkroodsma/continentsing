@@ -1,0 +1,9 @@
+<h2><a href="search.php#species-list"><span class="i-bird"></span></a> COMMON NIGHTHAWK
+ <span class="rec-number"><a href="search.php#number-list"><span class="i-number"></span></a> OR-170
+</span></h2>				
+				<h4 class="location"><span class="i-map-marker"></span> Malheur National Wildlife Refuge, southeastern Oregon
+</h4>
+				<h4 class="date"><span class="i-calendar"></span> June 10, 4:49 a.m. 
+</h4>
+				<h4 class="sunrise"><span class="i-sun"></span> Sunrise at 5:14 a.m.
+</h4>

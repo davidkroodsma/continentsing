@@ -1,0 +1,9 @@
+<h2><a href="search.php#species-list"><span class="i-bird"></span></a> GREAT CRESTED FLYCATCHER
+ <span class="rec-number"><a href="search.php#number-list"><span class="i-number"></span></a> KY-128
+</span></h2>				
+				<h4 class="location"><span class="i-map-marker"></span> Daniel Boone National Forest, Kentucky: Cane Creek Wildlife Management Area
+</h4>
+				<h4 class="date"><span class="i-calendar"></span> May 30, 5:59 a.m. 
+</h4>
+				<h4 class="sunrise"><span class="i-sun"></span> Sunrise at 6:18 a.m.
+</h4>

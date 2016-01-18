@@ -1,0 +1,9 @@
+<h2><a href="search.php#species-list"><span class="i-bird"></span></a> BLUE-GRAY GNATCATCHER 
+ <span class="rec-number"><a href="search.php#number-list"><span class="i-number"></span></a> VA-24
+</span></h2>				
+				<h4 class="location"><span class="i-map-marker"></span> Richmond National Battlefield Park, Malvern Hill, Virginia
+</h4>
+				<h4 class="date"><span class="i-calendar"></span> May 6; 5:45 a.m.  
+</h4>
+				<h4 class="sunrise"><span class="i-sun"></span> Sunrise at 6:08 a.m.
+</h4>

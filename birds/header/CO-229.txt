@@ -1,0 +1,9 @@
+<h2><a href="search.php#species-list"><span class="i-bird"></span></a> WESTERN MEADOWLARK 
+ <span class="rec-number"><a href="search.php#number-list"><span class="i-number"></span></a> CO-229
+</span></h2>				
+				<h4 class="location"><span class="i-map-marker"></span> Arapaho National Wildlife Refuge, Walden, Colorado
+</h4>
+				<h4 class="date"><span class="i-calendar"></span> June 9, 6:55 a.m. 
+</h4>
+				<h4 class="sunrise"><span class="i-sun"></span> Sunrise at 5:33 a.m.
+</h4>

@@ -1,0 +1,9 @@
+<h2><a href="search.php#species-list"><span class="i-bird"></span></a> BIRDS HEARD WHILE BIKING 
+ <span class="rec-number"><a href="search.php#number-list"><span class="i-number"></span></a> KY-71
+</span></h2>				
+				<h4 class="location"><span class="i-map-marker"></span> Appalachia: Biking uphill from Bevonsville to Dema, Kentucky
+</h4>
+				<h4 class="date"><span class="i-calendar"></span> May 14, mid-afternoon
+</h4>
+				<h4 class="sunrise"><span class="i-sun"></span> Sunrise at 6:15 a.m.   
+</h4>

@@ -1,0 +1,9 @@
+<h2><a href="search.php#species-list"><span class="i-bird"></span></a> FIGHTING COCKS
+ <span class="rec-number"><a href="search.php#number-list"><span class="i-number"></span></a> KY-68 
+</span></h2>				
+				<h4 class="location"><span class="i-map-marker"></span> Appalachia: Ashcamp, Kentucky
+</h4>
+				<h4 class="date"><span class="i-calendar"></span> May 15, 8:25 a.m. 
+</h4>
+				<h4 class="sunrise"><span class="i-sun"></span> Sunrise at 6:20 a.m.
+</h4>

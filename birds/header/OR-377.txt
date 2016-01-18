@@ -1,0 +1,9 @@
+<h2><a href="search.php#species-list"><span class="i-bird"></span></a> Chestnut-backed chickadee 
+ <span class="rec-number"><a href="search.php#number-list"><span class="i-number"></span></a> OR-377
+</span></h2>				
+				<h4 class="location"><span class="i-map-marker"></span> The Pacific Coast, South Beach State Park, Newport, Oregon
+</h4>
+				<h4 class="date"><span class="i-calendar"></span> May 21, 6:09 a.m. 
+</h4>
+				<h4 class="sunrise"><span class="i-sun"></span> Sunrise at 5:42 a.m.
+</h4>

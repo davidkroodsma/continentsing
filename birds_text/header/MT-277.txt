@@ -1,0 +1,9 @@
+<h2><a href="search.php#species-list"><span class="i-bird"></span></a> GRAY CATBIRD 
+ <span class="rec-number"><a href="search.php#number-list"><span class="i-number"></span></a> MT-277
+</span></h2>				
+				<h4 class="location"><span class="i-map-marker"></span> Red Rock Lakes National Wildlife Refuge, Montana
+</h4>
+				<h4 class="date"><span class="i-calendar"></span> June 3, 5:02 a.m. 
+</h4>
+				<h4 class="sunrise"><span class="i-sun"></span> Sunrise at 5:41 a.m.
+</h4>

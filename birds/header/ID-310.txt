@@ -1,0 +1,9 @@
+<h2><a href="search.php#species-list"><span class="i-bird"></span></a> YELLOW WARBLER
+ <span class="rec-number"><a href="search.php#number-list"><span class="i-number"></span></a> ID-310
+</span></h2>				
+				<h4 class="location"><span class="i-map-marker"></span> Central Idaho—Lava Hot Springs, Idaho
+</h4>
+				<h4 class="date"><span class="i-calendar"></span> May 30, 5:23 a.m. 
+</h4>
+				<h4 class="sunrise"><span class="i-sun"></span> Sunrise at 5:54 a.m.
+</h4>

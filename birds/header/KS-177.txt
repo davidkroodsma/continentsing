@@ -1,0 +1,9 @@
+<h2><a href="search.php#species-list"><span class="i-bird"></span></a> BALTIMORE ORIOLE 
+ <span class="rec-number"><a href="search.php#number-list"><span class="i-number"></span></a> KS-177
+</span></h2>				
+				<h4 class="location"><span class="i-map-marker"></span> Quivira National Wildlife Refuge, Stafford, Kansas
+</h4>
+				<h4 class="date"><span class="i-calendar"></span> June 4, 5:31 a.m. 
+</h4>
+				<h4 class="sunrise"><span class="i-sun"></span> Sunrise at 6:11 a.m.
+</h4>

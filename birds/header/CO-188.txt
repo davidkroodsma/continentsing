@@ -1,0 +1,9 @@
+<h2><a href="search.php#species-list"><span class="i-bird"></span></a> CASSIN'S SPARROW
+ <span class="rec-number"><a href="search.php#number-list"><span class="i-number"></span></a> CO-188
+</span></h2>				
+				<h4 class="location"><span class="i-map-marker"></span> Shortgrass Prairie of western Kansas, near Lake Scott State Park, Scott City, Kansas 
+</h4>
+				<h4 class="date"><span class="i-calendar"></span> June 6, 6:45 a.m. 
+</h4>
+				<h4 class="sunrise"><span class="i-sun"></span> Sunrise at 6:19 a.m.
+</h4>

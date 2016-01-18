@@ -1,0 +1,9 @@
+<h2><a href="search.php#species-list"><span class="i-bird"></span></a> MCCOWN'S LONGSPUR
+ <span class="rec-number"><a href="search.php#number-list"><span class="i-number"></span></a> CO-233
+</span></h2>				
+				<h4 class="location"><span class="i-map-marker"></span> Shortgrass Prairie of eastern Colorado, Pawnee National Grassland, Briggsdale, Colorado 
+</h4>
+				<h4 class="date"><span class="i-calendar"></span> May 30, 6:58 a.m. 
+</h4>
+				<h4 class="sunrise"><span class="i-sun"></span> Sunrise at 5:26 a.m.
+</h4>

@@ -1,0 +1,9 @@
+<h2><a href="search.php#species-list"><span class="i-bird"></span></a> HOUSE SPARROW
+ <span class="rec-number"><a href="search.php#number-list"><span class="i-number"></span></a> OR-332
+</span></h2>				
+				<h4 class="location"><span class="i-map-marker"></span> Northampton, Massachusetts
+</h4>
+				<h4 class="date"><span class="i-calendar"></span> June 29, 5:04 a.m.  
+</h4>
+				<h4 class="sunrise"><span class="i-sun"></span> Sunrise at 5:17 a.m.
+</h4>
