@@ -6,7 +6,7 @@ from os import listdir
 from os.path import isfile, join
 
 mypath = "../../images-fullsize/"
-mypathout = "../../images/"
+mypathout = "../images/"
 
 onlyfiles = [f for f in listdir(mypath) if isfile(join(mypath, f))]
 basewidth = 271
