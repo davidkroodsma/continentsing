@@ -57,7 +57,7 @@
 					    <source src="<?php echo $song; ?>" type="audio/mpeg">
 						Your browser does not support the audio element.
 					</audio>
-					<h5><a class="caps" href="<?php echo $song; $number++;?>"><span class="i-cloud-download"></span> Download the Recording</a> 
+					<h5><a class="caps" href="<?php echo $song; $number++;?>" download><span class="i-cloud-download"></span> Download the Recording</a> 
 					<!--<a class="caps" href="http://www.birds.cornell.edu/brp/raven/RavenOverview.php" target="_blank"><span class="i-arrow-right"></span>View in free Raven-lite</a>-->
 					</h5>	
 				</div>
