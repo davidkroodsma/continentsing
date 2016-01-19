@@ -1,9 +1,0 @@
-<h2><a href="search.php#species-list"><span class="i-bird"></span></a> SCARLET TANAGER
- <span class="rec-number"><a href="search.php#number-list"><span class="i-number"></span></a> KY-91
-</span></h2>				
-				<h4 class="location"><span class="i-map-marker"></span> Mammoth Cave National Park, western Kentucky
-</h4>
-				<h4 class="date"><span class="i-calendar"></span> June 1, 7:12 a.m. 
-</h4>
-				<h4 class="sunrise"><span class="i-sun"></span> Sunrise at 6:23 a.m.
-</h4>

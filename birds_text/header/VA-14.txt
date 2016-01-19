@@ -1,9 +1,0 @@
-<h2><a href="search.php#species-list"><span class="i-bird"></span></a> CHIPPING SPARROW 
- <span class="rec-number"><a href="search.php#number-list"><span class="i-number"></span></a> VA-14
-</span></h2>				
-				<h4 class="location"><span class="i-map-marker"></span> Yorktown National Battlefield, Yorktown, Virginia & vicinity (Jamestown Beach Campground, Jamestown, Virginia)
-</h4>
-				<h4 class="date"><span class="i-calendar"></span> May 5, 5:40 a.m. 
-</h4>
-				<h4 class="sunrise"><span class="i-sun"></span> Sunrise at 6:07 a.m.
-</h4>

@@ -3,7 +3,16 @@ He sings from just overhead, but in such a curious fashion: He alternates one or
 
 <p>Heres an interesting exercise. Try listening to  the following recording in which Ive deleted all of the low <em>twrp</em> notes and all of the silent intervals between the <em>wheeee-up</em> notes. Now you hear all of the <em>wheeee-up</em> notes in rapid succession and can more clearly hear what seem to be these two different <em>wheeee-up</em> notes.</p>
 
-<p>PLAY BAR HERE 027.1.0545<em>GcFl</em>VA--test deletions</p>
+
+				<div id="audio">
+					<audio controls <?php if($autoplay){echo 'autoplay';}?> >
+						<?php $song = "birdsong/".$key_array[$page][$number].".mp3"; ?>
+					    <source src="<?php echo $song; ?>" type="audio/mpeg">
+						Your browser does not support the audio element.
+					</audio>
+					<h5><a class="caps" href="<?php echo $song; $number++;?>"><span class="i-cloud-download"></span> Download the Recording</a> 
+					</h5>	
+				</div>
 
 <p>Then listen to the actual sequence from the bird once more and try to piece together in your head what hes doing in his head. Youll never listen to a great crested flycatcher in the same way again. </p>
 

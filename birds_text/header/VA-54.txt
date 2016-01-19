@@ -1,9 +1,0 @@
-<h2><a href="search.php#species-list"><span class="i-bird"></span></a> LEAST FLYCATCHER (0:56)
- <span class="rec-number"><a href="search.php#number-list"><span class="i-number"></span></a> VA-54
-</span></h2>				
-				<h4 class="location"><span class="i-map-marker"></span> Highlands of western Virginia: Grindstone Campground, Mt. Rogers
-</h4>
-				<h4 class="date"><span class="i-calendar"></span> May 5, 6:28 a.m. 
-</h4>
-				<h4 class="sunrise"><span class="i-sun"></span> Sunrise at 6:28 am.)
-</h4>

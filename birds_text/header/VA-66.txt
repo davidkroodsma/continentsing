@@ -1,9 +1,0 @@
-<h2><a href="search.php#species-list"><span class="i-bird"></span></a> CHIMNEY SWIFT
- <span class="rec-number"><a href="search.php#number-list"><span class="i-number"></span></a> VA-66
-</span></h2>				
-				<h4 class="location"><span class="i-map-marker"></span> Highlands of western Virginia: Mountain Lake 
-</h4>
-				<h4 class="date"><span class="i-calendar"></span> May 23, 8:37 p.m. 
-</h4>
-				<h4 class="sunrise"><span class="i-sun"></span> Sunset at 8:30 p.m.
-</h4>

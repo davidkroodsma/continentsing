@@ -1,9 +1,0 @@
-<h2><a href="search.php#species-list"><span class="i-bird"></span></a> EUROPEAN STARLING
- <span class="rec-number"><a href="search.php#number-list"><span class="i-number"></span></a> KY-103
-</span></h2>				
-				<h4 class="location"><span class="i-map-marker"></span> Atlanta, Michigan
-</h4>
-				<h4 class="date"><span class="i-calendar"></span> April 30, 7:30 a.m. 
-</h4>
-				<h4 class="sunrise"><span class="i-sun"></span> Sunrise at 6:25 a.m.
-</h4>

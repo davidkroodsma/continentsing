@@ -1,9 +1,0 @@
-Twenty songs from a male “winter wren,” of the western variety, now called the Pacific wren. Songs are five and a half to seven and a half seconds long, consisting of countless tiny little notes exploding out of his quivering bill. He is too quick for my ears, so I follow the sonagrams on my computer monitor, astonished at how good he is at repeating this masterpiece song after song. 
-
-All 20 of the songs begin with basically the same four seconds of notes, but then he takes some liberties in how he finishes the task. Most often he omits a section of the song and skips on ahead, thereby shortening the song. In these 20 songs, he tells of most of the song notes he can sing, but he has many more arrangements in which he can deliver them. 
-
-Want to hear what he’s really doing? Try listening to this song slowed down four times, now spanning about 30 seconds:
-
-PLAY BAR HERE (301.1250--slowed 1 song)
-#####Background
-Spotted towhee, purple finch, common raven, Pacific-slope flycatcher, orange-crowned warbler, another singing Pacific wren, American robin

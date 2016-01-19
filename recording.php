@@ -1,10 +1,11 @@
-
 <!doctype html>
+<?php include("keyarray.php");?>
 
 <?php $autoplay = (isset($_GET['autoplay']))? $_GET['autoplay'] : false;
-   $song =  (isset($_GET['s']))? $_GET['s'] : '1';
-   $song = 'birdsong/'.$song.".mp3";
+   //$song =  (isset($_GET['s']))? $_GET['s'] : '1';
+   //$song = 'birdsong/'.$song.".mp3";
    $page = (isset($_GET['page']))? $_GET['page'] : 'VA-1';
+   $number = 0;
 ?>
 
 <html lang="en">
@@ -52,10 +53,11 @@
 				<div id="audio">
 					<!--<img src="assets/img/player.gif" alt="" />-->
 					<audio controls <?php if($autoplay){echo 'autoplay';}?> >
+						<?php $song = "birdsong/".$key_array[$page][$number].".mp3"; ?>
 					    <source src="<?php echo $song; ?>" type="audio/mpeg">
 						Your browser does not support the audio element.
 					</audio>
-					<h5><a class="caps" href="#"><span class="i-cloud-download"></span> Download the Recording</a> 
+					<h5><a class="caps" href="<?php echo $song; $number++;?>"><span class="i-cloud-download"></span> Download the Recording</a> 
 					<!--<a class="caps" href="http://www.birds.cornell.edu/brp/raven/RavenOverview.php" target="_blank"><span class="i-arrow-right"></span>View in free Raven-lite</a>-->
 					</h5>	
 				</div>

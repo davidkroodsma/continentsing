@@ -1,9 +1,0 @@
-<h2><a href="search.php#species-list"><span class="i-bird"></span></a> WINTER WREN 
- <span class="rec-number"><a href="search.php#number-list"><span class="i-number"></span></a> VA-57
-</span></h2>				
-				<h4 class="location"><span class="i-map-marker"></span> Atop Mt. Rogers, Virginia
-</h4>
-				<h4 class="date"><span class="i-calendar"></span> May 26, 6:15 a.m. 
-</h4>
-				<h4 class="sunrise"><span class="i-sun"></span> Sunrise at 6:09 a.m.   
-</h4>

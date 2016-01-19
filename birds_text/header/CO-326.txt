@@ -1,9 +1,0 @@
-<h2><a href="search.php#species-list"><span class="i-bird"></span></a> WESTERN SCRUB-JAY, MOURNING DOVE 
- <span class="rec-number"><a href="search.php#number-list"><span class="i-number"></span></a> CO-326	
-</span></h2>				
-				<h4 class="location"><span class="i-map-marker"></span> Climbing the Rockies: Juniper habitat, Temple Canyon Park, Canyon City, Colorado
-</h4>
-				<h4 class="date"><span class="i-calendar"></span> June 8, 6:49 a.m. 
-</h4>
-				<h4 class="sunrise"><span class="i-sun"></span> Sunrise at 5:37 a.m.
-</h4>

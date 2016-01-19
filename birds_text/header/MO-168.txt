@@ -1,9 +1,0 @@
-<h2><a href="search.php#species-list"><span class="i-bird"></span></a> GRASSHOPPER SPARROW 
- <span class="rec-number"><a href="search.php#number-list"><span class="i-number"></span></a> MO-168
-</span></h2>				
-				<h4 class="location"><span class="i-map-marker"></span> Prairie State Park, Mindenmines, Missouri
-</h4>
-				<h4 class="date"><span class="i-calendar"></span> June 2, 8:44 P.M.
-</h4>
-				<h4 class="sunrise"><span class="i-sun"></span> Sunset at 8:35 p.m.
-</h4>

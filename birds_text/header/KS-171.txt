@@ -1,9 +1,0 @@
-<h2><a href="search.php#species-list"><span class="i-bird"></span></a> UPLAND SANDPIPER 
- <span class="rec-number"><a href="search.php#number-list"><span class="i-number"></span></a> KS-171	
-</span></h2>				
-				<h4 class="location"><span class="i-map-marker"></span> Stanley County, South Dakota
-</h4>
-				<h4 class="date"><span class="i-calendar"></span> April 7, morning
-</h4>
-				<h4 class="sunrise"><span class="i-sun"></span> Sunrise at 7:10 a.m.
-</h4>

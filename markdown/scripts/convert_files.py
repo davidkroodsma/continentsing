@@ -21,6 +21,38 @@ for f in onlyfiles:
 		fi.write(web_text)
 		fi.close()
 
+
+
+audio_text = '''
+				<div id="audio">
+					<audio controls <?php if($autoplay){echo 'autoplay';}?> >
+						<?php $song = "birdsong/".$key_array[$page][$number].".mp3"; ?>
+					    <source src="<?php echo $song; ?>" type="audio/mpeg">
+						Your browser does not support the audio element.
+					</audio>
+					<h5><a class="caps" href="<?php echo $song; $number++;?>"><span class="i-cloud-download"></span> Download the Recording</a> 
+					</h5>	
+				</div>
+'''
+
+
+mypath_out =  mypath = "../../birds/main/"
+onlyfiles = [f for f in listdir(mypath) if isfile(join(mypath, f))]
+for f in onlyfiles:
+	if ".html" in f:
+		fi = open(mypath+f, "rU")
+		lines = fi.readlines()
+		fi.close()
+		fi = open(mypath+f, "w")
+		for line in lines:
+			if 'PLAY BAR HERE' in line:
+				line = audio_text
+			fi.write(line)
+		fi.close()
+
+
+
+
 mypath = "../text_images/"
 mypath_out = "../../birds/image_text/"
 onlyfiles = [f for f in listdir(mypath) if isfile(join(mypath, f))]
@@ -63,4 +95,6 @@ for f in onlyfiles:
 		fi = open(mypath_out+f.upper()+".txt", "w")
 		fi.write(header_text)
 		fi.close()
+
+
 		

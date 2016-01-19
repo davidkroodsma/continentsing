@@ -1,9 +1,0 @@
-<h2><a href="search.php#species-list"><span class="i-bird"></span></a> WOOD THRUSH 
- <span class="rec-number"><a href="search.php#number-list"><span class="i-number"></span></a> VA-36
-</span></h2>				
-				<h4 class="location"><span class="i-map-marker"></span> Blue Ridge Parkway, Virginia
-</h4>
-				<h4 class="date"><span class="i-calendar"></span> May 21, 8:09 P.M. 
-</h4>
-				<h4 class="sunrise"><span class="i-sun"></span> Sunset at 8:26 P.M.
-</h4>

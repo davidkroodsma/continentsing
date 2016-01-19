@@ -1,9 +1,0 @@
-<h2><a href="search.php#species-list"><span class="i-bird"></span></a> BLACK-THROATED GRAY WARBLER
- <span class="rec-number"><a href="search.php#number-list"><span class="i-number"></span></a> OR-368
-</span></h2>				
-				<h4 class="location"><span class="i-map-marker"></span> Willamette Valley, William L. Finley National Wildlife Refuge, Oregon
-</h4>
-				<h4 class="date"><span class="i-calendar"></span> May 24, 9:09 a.m. 
-</h4>
-				<h4 class="sunrise"><span class="i-sun"></span> Sunrise at 5:36 a.m.
-</h4>

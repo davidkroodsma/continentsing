@@ -1,9 +1,0 @@
-<h2><a href="search.php#species-list"><span class="i-bird"></span></a> YELLOW-BREASTED CHAT 
- <span class="rec-number"><a href="search.php#number-list"><span class="i-number"></span></a> WY-236
-</span></h2>				
-				<h4 class="location"><span class="i-map-marker"></span> Sweetwater River, Split Rock, near Jeffrey City, Wyoming
-</h4>
-				<h4 class="date"><span class="i-calendar"></span> June 11, 7:07 a.m. 
-</h4>
-				<h4 class="sunrise"><span class="i-sun"></span> Sunrise at 5:33 a.m.
-</h4>

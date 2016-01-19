@@ -8,11 +8,29 @@
 
 <p>Last, I provide a little help for our ears. Ive excerpted one example of each of the four songs and now play them back to back. Now its a little easier to tell them apart: </p>
 
-<p>PLAY BAR HERE (121.1.file 1260b-4)</p>
+
+				<div id="audio">
+					<audio controls <?php if($autoplay){echo 'autoplay';}?> >
+						<?php $song = "birdsong/".$key_array[$page][$number].".mp3"; ?>
+					    <source src="<?php echo $song; ?>" type="audio/mpeg">
+						Your browser does not support the audio element.
+					</audio>
+					<h5><a class="caps" href="<?php echo $song; $number++;?>"><span class="i-cloud-download"></span> Download the Recording</a> 
+					</h5>	
+				</div>
 
 <p>Then I take the ending trills for each song, put them back to back, and slow them to one quarter speed, lowering the frequency in the process; now we can hear the differences in the four songs more easily: </p>
 
-<p>PLAY BAR HERE FOR (121.2.1260b<em>SeWr</em>KY--4 songs--trills only slowed). </p>
+
+				<div id="audio">
+					<audio controls <?php if($autoplay){echo 'autoplay';}?> >
+						<?php $song = "birdsong/".$key_array[$page][$number].".mp3"; ?>
+					    <source src="<?php echo $song; ?>" type="audio/mpeg">
+						Your browser does not support the audio element.
+					</audio>
+					<h5><a class="caps" href="<?php echo $song; $number++;?>"><span class="i-cloud-download"></span> Download the Recording</a> 
+					</h5>	
+				</div>
 
 <h5>Background</h5>
 

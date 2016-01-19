@@ -1,6 +1,15 @@
 <p>To satisfy those who must listen quickly and move on, I offer a single grouse drum here:</p>
 
-<p>PLAY BAR HERE (ID-306).</p>
+
+				<div id="audio">
+					<audio controls <?php if($autoplay){echo 'autoplay';}?> >
+						<?php $song = "birdsong/".$key_array[$page][$number].".mp3"; ?>
+					    <source src="<?php echo $song; ?>" type="audio/mpeg">
+						Your browser does not support the audio element.
+					</audio>
+					<h5><a class="caps" href="<?php echo $song; $number++;?>"><span class="i-cloud-download"></span> Download the Recording</a> 
+					</h5>	
+				</div>
 
 <p>But then there is grouse time, not the quick drum or two that a human might want to hear for bird identification, but instead two hours in the life of a ruffed grouse as he drums on a log in central Idaho.</p>
 

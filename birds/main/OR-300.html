@@ -4,7 +4,16 @@
 
 <p>Want to hear what hes really doing? Try listening to this song slowed down four times, now spanning about 30 seconds:</p>
 
-<p>PLAY BAR HERE (301.1250--slowed 1 song)</p>
+
+				<div id="audio">
+					<audio controls <?php if($autoplay){echo 'autoplay';}?> >
+						<?php $song = "birdsong/".$key_array[$page][$number].".mp3"; ?>
+					    <source src="<?php echo $song; ?>" type="audio/mpeg">
+						Your browser does not support the audio element.
+					</audio>
+					<h5><a class="caps" href="<?php echo $song; $number++;?>"><span class="i-cloud-download"></span> Download the Recording</a> 
+					</h5>	
+				</div>
 
 <h5>Background</h5>
 

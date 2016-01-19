@@ -8,7 +8,16 @@
 
 <p>For a more normal pace of singing, listen to an Oregon recording by Geoffrey A. Keller (MLHS 120251). The male in this recording sings at a normal pace, but a long session has been condensed into eight songs, with two examples of each of four different song types:</p>
 
-<p>PLAY BAR HERE FOR (314.1.Canyon Wren 72 Track 72 5)  </p>
+
+				<div id="audio">
+					<audio controls <?php if($autoplay){echo 'autoplay';}?> >
+						<?php $song = "birdsong/".$key_array[$page][$number].".mp3"; ?>
+					    <source src="<?php echo $song; ?>" type="audio/mpeg">
+						Your browser does not support the audio element.
+					</audio>
+					<h5><a class="caps" href="<?php echo $song; $number++;?>"><span class="i-cloud-download"></span> Download the Recording</a> 
+					</h5>	
+				</div>
 
 <h5>Background</h5>
 

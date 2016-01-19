@@ -1,9 +1,0 @@
-<h2><a href="search.php#species-list"><span class="i-bird"></span></a> ROSE-BREASTED GROSBEAK, BALTIMORE ORIOLE 
- <span class="rec-number"><a href="search.php#number-list"><span class="i-number"></span></a> MO-169
-</span></h2>				
-				<h4 class="location"><span class="i-map-marker"></span> Prairie State Park, Mindenmines, Missouri
-</h4>
-				<h4 class="date"><span class="i-calendar"></span> June 2, 8:38 a.m. 
-</h4>
-				<h4 class="sunrise"><span class="i-sun"></span> Sunrise at 5:58 a.m.
-</h4>

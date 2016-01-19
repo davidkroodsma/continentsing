@@ -54,260 +54,6 @@
 					<h2>search recordings by number</h2>
 					<p>Listen by number, as referenced in the book’s text; state abbreviations are added as a prefix. Simply click on any of the 381 numbers, such as CO-280, where you’ll be whisked away to Colorado, listening to yellow-headed blackbirds.</p>
 					<ul>
-						<li><a href="recording.php?page=CO-139">CO-139</a></li>
-						<li><a href="recording.php?page=CO-142">CO-142</a></li>
-						<li><a href="recording.php?page=CO-178">CO-178</a></li>
-						<li><a href="recording.php?page=CO-180">CO-180</a></li>
-						<li><a href="recording.php?page=CO-184">CO-184</a></li>
-						<li><a href="recording.php?page=CO-185">CO-185</a></li>
-						<li><a href="recording.php?page=CO-188">CO-188</a></li>
-						<li><a href="recording.php?page=CO-189">CO-189</a></li>
-						<li><a href="recording.php?page=CO-193">CO-193</a></li>
-						<li><a href="recording.php?page=CO-194">CO-194</a></li>
-						<li><a href="recording.php?page=CO-195">CO-195</a></li>
-						<li><a href="recording.php?page=CO-196">CO-196</a></li>
-						<li><a href="recording.php?page=CO-197">CO-197</a></li>
-						<li><a href="recording.php?page=CO-198">CO-198</a></li>
-						<li><a href="recording.php?page=CO-199">CO-199</a></li>
-						<li><a href="recording.php?page=CO-200">CO-200</a></li>
-						<li><a href="recording.php?page=CO-203">CO-203</a></li>
-						<li><a href="recording.php?page=CO-204">CO-204</a></li>
-						<li><a href="recording.php?page=CO-205">CO-205</a></li>
-						<li><a href="recording.php?page=CO-206">CO-206</a></li>
-						<li><a href="recording.php?page=CO-208">CO-208</a></li>
-						<li><a href="recording.php?page=CO-209">CO-209</a></li>
-						<li><a href="recording.php?page=CO-210">CO-210</a></li>
-						<li><a href="recording.php?page=CO-211">CO-211</a></li>
-						<li><a href="recording.php?page=CO-212">CO-212</a></li>
-						<li><a href="recording.php?page=CO-213">CO-213</a></li>
-						<li><a href="recording.php?page=CO-214">CO-214</a></li>
-						<li><a href="recording.php?page=CO-215">CO-215</a></li>
-						<li><a href="recording.php?page=CO-216">CO-216</a></li>
-						<li><a href="recording.php?page=CO-217">CO-217</a></li>
-						<li><a href="recording.php?page=CO-218">CO-218</a></li>
-						<li><a href="recording.php?page=CO-221">CO-221</a></li>
-						<li><a href="recording.php?page=CO-222">CO-222</a></li>
-						<li><a href="recording.php?page=CO-224">CO-224</a></li>
-						<li><a href="recording.php?page=CO-228">CO-228</a></li>
-						<li><a href="recording.php?page=CO-229">CO-229</a></li>
-						<li><a href="recording.php?page=CO-230">CO-230</a></li>
-						<li><a href="recording.php?page=CO-232">CO-232</a></li>
-						<li><a href="recording.php?page=CO-233">CO-233</a></li>
-						<li><a href="recording.php?page=CO-241">CO-241</a></li>
-						<li><a href="recording.php?page=CO-256">CO-256</a></li>
-						<li><a href="recording.php?page=CO-280">CO-280</a></li>
-						<li><a href="recording.php?page=CO-284">CO-284</a></li>
-						<li><a href="recording.php?page=CO-317">CO-317</a></li>
-						<li><a href="recording.php?page=CO-326">CO-326</a></li>
-						<li><a href="recording.php?page=ID-202">ID-202</a></li>
-						<li><a href="recording.php?page=ID-219">ID-219</a></li>
-						<li><a href="recording.php?page=ID-220">ID-220</a></li>
-						<li><a href="recording.php?page=ID-223">ID-223</a></li>
-						<li><a href="recording.php?page=ID-255">ID-255</a></li>
-						<li><a href="recording.php?page=ID-273">ID-273</a></li>
-						<li><a href="recording.php?page=ID-298">ID-298</a></li>
-						<li><a href="recording.php?page=ID-299">ID-299</a></li>
-						<li><a href="recording.php?page=ID-302">ID-302</a></li>
-						<li><a href="recording.php?page=ID-303">ID-303</a></li>
-						<li><a href="recording.php?page=ID-304">ID-304</a></li>
-						<li><a href="recording.php?page=ID-305">ID-305</a></li>
-						<li><a href="recording.php?page=ID-307">ID-307</a></li>
-						<li><a href="recording.php?page=ID-308">ID-308</a></li>
-						<li><a href="recording.php?page=ID-309">ID-309</a></li>
-						<li><a href="recording.php?page=ID-310">ID-310</a></li>
-						<li><a href="recording.php?page=ID-323">ID-323</a></li>
-						<li><a href="recording.php?page=ID-344">ID-344</a></li>
-						<li><a href="recording.php?page=ID-351">ID-351</a></li>
-						<li><a href="recording.php?page=IL-88">IL-88</a></li>
-						<li><a href="recording.php?page=IL-94">IL-94</a></li>
-						<li><a href="recording.php?page=IL-97">IL-97</a></li>
-						<li><a href="recording.php?page=IL-101">IL-101</a></li>
-						<li><a href="recording.php?page=IL-107">IL-107</a></li>
-						<li><a href="recording.php?page=IL-108">IL-108</a></li>
-						<li><a href="recording.php?page=IL-109">IL-109</a></li>
-						<li><a href="recording.php?page=IL-110">IL-110</a></li>
-						<li><a href="recording.php?page=IL-118">IL-118</a></li>
-						<li><a href="recording.php?page=IL-124">IL-124</a></li>
-						<li><a href="recording.php?page=IL-126">IL-126</a></li>
-						<li><a href="recording.php?page=IL-127">IL-127</a></li>
-						<li><a href="recording.php?page=IL-130">IL-130</a></li>
-						<li><a href="recording.php?page=IL-131">IL-131</a></li>
-						<li><a href="recording.php?page=IL-132">IL-132</a></li>
-						<li><a href="recording.php?page=IL-133">IL-133</a></li>
-						<li><a href="recording.php?page=IL-135">IL-135</a></li>
-						<li><a href="recording.php?page=IL-138">IL-138</a></li>
-						<li><a href="recording.php?page=IL-146">IL-146</a></li>
-						<li><a href="recording.php?page=KS-162">KS-162</a></li>
-						<li><a href="recording.php?page=KS-171">KS-171</a></li>
-						<li><a href="recording.php?page=KS-172">KS-172</a></li>
-						<li><a href="recording.php?page=KS-173">KS-173</a></li>
-						<li><a href="recording.php?page=KS-174">KS-174</a></li>
-						<li><a href="recording.php?page=KS-175">KS-175</a></li>
-						<li><a href="recording.php?page=KS-176">KS-176</a></li>
-						<li><a href="recording.php?page=KS-177">KS-177</a></li>
-						<li><a href="recording.php?page=KS-181">KS-181</a></li>
-						<li><a href="recording.php?page=KS-183">KS-183</a></li>
-						<li><a href="recording.php?page=KS-186">KS-186</a></li>
-						<li><a href="recording.php?page=KS-187">KS-187</a></li>
-						<li><a href="recording.php?page=KS-282">KS-282</a></li>
-						<li><a href="recording.php?page=KY-44">KY-44</a></li>
-						<li><a href="recording.php?page=KY-68">KY-68</a></li>
-						<li><a href="recording.php?page=KY-71">KY-71</a></li>
-						<li><a href="recording.php?page=KY-72">KY-72</a></li>
-						<li><a href="recording.php?page=KY-75">KY-75</a></li>
-						<li><a href="recording.php?page=KY-81">KY-81</a></li>
-						<li><a href="recording.php?page=KY-82">KY-82</a></li>
-						<li><a href="recording.php?page=KY-83">KY-83</a></li>
-						<li><a href="recording.php?page=KY-84">KY-84</a></li>
-						<li><a href="recording.php?page=KY-86">KY-86</a></li>
-						<li><a href="recording.php?page=KY-89">KY-89</a></li>
-						<li><a href="recording.php?page=KY-90">KY-90</a></li>
-						<li><a href="recording.php?page=KY-91">KY-91</a></li>
-						<li><a href="recording.php?page=KY-92">KY-92</a></li>
-						<li><a href="recording.php?page=KY-93">KY-93</a></li>
-						<li><a href="recording.php?page=KY-98">KY-98</a></li>
-						<li><a href="recording.php?page=KY-99">KY-99</a></li>
-						<li><a href="recording.php?page=KY-102">KY-102</a></li>
-						<li><a href="recording.php?page=KY-103">KY-103</a></li>
-						<li><a href="recording.php?page=KY-104">KY-104</a></li>
-						<li><a href="recording.php?page=KY-105">KY-105</a></li>
-						<li><a href="recording.php?page=KY-115">KY-115</a></li>
-						<li><a href="recording.php?page=KY-117">KY-117</a></li>
-						<li><a href="recording.php?page=KY-120">KY-120</a></li>
-						<li><a href="recording.php?page=KY-121">KY-121</a></li>
-						<li><a href="recording.php?page=KY-123">KY-123</a></li>
-						<li><a href="recording.php?page=KY-125">KY-125</a></li>
-						<li><a href="recording.php?page=KY-128">KY-128</a></li>
-						<li><a href="recording.php?page=KY-134">KY-134</a></li>
-						<li><a href="recording.php?page=KY-144">KY-144</a></li>
-						<li><a href="recording.php?page=MO-13">MO-13</a></li>
-						<li><a href="recording.php?page=MO-111">MO-111</a></li>
-						<li><a href="recording.php?page=MO-112">MO-112</a></li>
-						<li><a href="recording.php?page=MO-113">MO-113</a></li>
-						<li><a href="recording.php?page=MO-114">MO-114</a></li>
-						<li><a href="recording.php?page=MO-119">MO-119</a></li>
-						<li><a href="recording.php?page=MO-122">MO-122</a></li>
-						<li><a href="recording.php?page=MO-129">MO-129</a></li>
-						<li><a href="recording.php?page=MO-140">MO-140</a></li>
-						<li><a href="recording.php?page=MO-143">MO-143</a></li>
-						<li><a href="recording.php?page=MO-145">MO-145</a></li>
-						<li><a href="recording.php?page=MO-148">MO-148</a></li>
-						<li><a href="recording.php?page=MO-149">MO-149</a></li>
-						<li><a href="recording.php?page=MO-150">MO-150</a></li>
-						<li><a href="recording.php?page=MO-151">MO-151</a></li>
-						<li><a href="recording.php?page=MO-152">MO-152</a></li>
-						<li><a href="recording.php?page=MO-153">MO-153</a></li>
-						<li><a href="recording.php?page=MO-154">MO-154</a></li>
-						<li><a href="recording.php?page=MO-155">MO-155</a></li>
-						<li><a href="recording.php?page=MO-156">MO-156</a></li>
-						<li><a href="recording.php?page=MO-157">MO-157</a></li>
-						<li><a href="recording.php?page=MO-158">MO-158</a></li>
-						<li><a href="recording.php?page=MO-159">MO-159</a></li>
-						<li><a href="recording.php?page=MO-160">MO-160</a></li>
-						<li><a href="recording.php?page=MO-161">MO-161</a></li>
-						<li><a href="recording.php?page=MO-163">MO-163</a></li>
-						<li><a href="recording.php?page=MO-164">MO-164</a></li>
-						<li><a href="recording.php?page=MO-165">MO-165</a></li>
-						<li><a href="recording.php?page=MO-168">MO-168</a></li>
-						<li><a href="recording.php?page=MO-169">MO-169</a></li>
-						<li><a href="recording.php?page=MT-225">MT-225</a></li>
-						<li><a href="recording.php?page=MT-238">MT-238</a></li>
-						<li><a href="recording.php?page=MT-243">MT-243</a></li>
-						<li><a href="recording.php?page=MT-268">MT-268</a></li>
-						<li><a href="recording.php?page=MT-269">MT-269</a></li>
-						<li><a href="recording.php?page=MT-270">MT-270</a></li>
-						<li><a href="recording.php?page=MT-271">MT-271</a></li>
-						<li><a href="recording.php?page=MT-272">MT-272</a></li>
-						<li><a href="recording.php?page=MT-275">MT-275</a></li>
-						<li><a href="recording.php?page=MT-276">MT-276</a></li>
-						<li><a href="recording.php?page=MT-277">MT-277</a></li>
-						<li><a href="recording.php?page=MT-278">MT-278</a></li>
-						<li><a href="recording.php?page=MT-281">MT-281</a></li>
-						<li><a href="recording.php?page=MT-283">MT-283</a></li>
-						<li><a href="recording.php?page=MT-285">MT-285</a></li>
-						<li><a href="recording.php?page=MT-286">MT-286</a></li>
-						<li><a href="recording.php?page=MT-287">MT-287</a></li>
-						<li><a href="recording.php?page=MT-288">MT-288</a></li>
-						<li><a href="recording.php?page=MT-289">MT-289</a></li>
-						<li><a href="recording.php?page=MT-290">MT-290</a></li>
-						<li><a href="recording.php?page=MT-291">MT-291</a></li>
-						<li><a href="recording.php?page=MT-292">MT-292</a></li>
-						<li><a href="recording.php?page=MT-294">MT-294</a></li>
-						<li><a href="recording.php?page=MT-296">MT-296</a></li>
-						<li><a href="recording.php?page=MT-297">MT-297</a></li>
-						<li><a href="recording.php?page=MT-348">MT-348</a></li>
-						<li><a href="recording.php?page=OR-147">OR-147</a></li>
-						<li><a href="recording.php?page=OR-170">OR-170</a></li>
-						<li><a href="recording.php?page=OR-179">OR-179</a></li>
-						<li><a href="recording.php?page=OR-182">OR-182</a></li>
-						<li><a href="recording.php?page=OR-190">OR-190</a></li>
-						<li><a href="recording.php?page=OR-191">OR-191</a></li>
-						<li><a href="recording.php?page=OR-192">OR-192</a></li>
-						<li><a href="recording.php?page=OR-201">OR-201</a></li>
-						<li><a href="recording.php?page=OR-207">OR-207</a></li>
-						<li><a href="recording.php?page=OR-226">OR-226</a></li>
-						<li><a href="recording.php?page=OR-227">OR-227</a></li>
-						<li><a href="recording.php?page=OR-239">OR-239</a></li>
-						<li><a href="recording.php?page=OR-246">OR-246</a></li>
-						<li><a href="recording.php?page=OR-249">OR-249</a></li>
-						<li><a href="recording.php?page=OR-279">OR-279</a></li>
-						<li><a href="recording.php?page=OR-293">OR-293</a></li>
-						<li><a href="recording.php?page=OR-295">OR-295</a></li>
-						<li><a href="recording.php?page=OR-300">OR-300</a></li>
-						<li><a href="recording.php?page=OR-311">OR-311</a></li>
-						<li><a href="recording.php?page=OR-312">OR-312</a></li>
-						<li><a href="recording.php?page=OR-313">OR-313</a></li>
-						<li><a href="recording.php?page=OR-314">OR-314</a></li>
-						<li><a href="recording.php?page=OR-324">OR-324</a></li>
-						<li><a href="recording.php?page=OR-325">OR-325</a></li>
-						<li><a href="recording.php?page=OR-327">OR-327</a></li>
-						<li><a href="recording.php?page=OR-328">OR-328</a></li>
-						<li><a href="recording.php?page=OR-329">OR-329</a></li>
-						<li><a href="recording.php?page=OR-330">OR-330</a></li>
-						<li><a href="recording.php?page=OR-331">OR-331</a></li>
-						<li><a href="recording.php?page=OR-332">OR-332</a></li>
-						<li><a href="recording.php?page=OR-333">OR-333</a></li>
-						<li><a href="recording.php?page=OR-334">OR-334</a></li>
-						<li><a href="recording.php?page=OR-336">OR-336</a></li>
-						<li><a href="recording.php?page=OR-337">OR-337</a></li>
-						<li><a href="recording.php?page=OR-338">OR-338</a></li>
-						<li><a href="recording.php?page=OR-339">OR-339</a></li>
-						<li><a href="recording.php?page=OR-341">OR-341</a></li>
-						<li><a href="recording.php?page=OR-342">OR-342</a></li>
-						<li><a href="recording.php?page=OR-343">OR-343</a></li>
-						<li><a href="recording.php?page=OR-345">OR-345</a></li>
-						<li><a href="recording.php?page=OR-346">OR-346</a></li>
-						<li><a href="recording.php?page=OR-347">OR-347</a></li>
-						<li><a href="recording.php?page=OR-350">OR-350</a></li>
-						<li><a href="recording.php?page=OR-352">OR-352</a></li>
-						<li><a href="recording.php?page=OR-353">OR-353</a></li>
-						<li><a href="recording.php?page=OR-354">OR-354</a></li>
-						<li><a href="recording.php?page=OR-355">OR-355</a></li>
-						<li><a href="recording.php?page=OR-356">OR-356</a></li>
-						<li><a href="recording.php?page=OR-357">OR-357</a></li>
-						<li><a href="recording.php?page=OR-358">OR-358</a></li>
-						<li><a href="recording.php?page=OR-359">OR-359</a></li>
-						<li><a href="recording.php?page=OR-360">OR-360</a></li>
-						<li><a href="recording.php?page=OR-361">OR-361</a></li>
-						<li><a href="recording.php?page=OR-362">OR-362</a></li>
-						<li><a href="recording.php?page=OR-363">OR-363</a></li>
-						<li><a href="recording.php?page=OR-364">OR-364</a></li>
-						<li><a href="recording.php?page=OR-365">OR-365</a></li>
-						<li><a href="recording.php?page=OR-366">OR-366</a></li>
-						<li><a href="recording.php?page=OR-367">OR-367</a></li>
-						<li><a href="recording.php?page=OR-368">OR-368</a></li>
-						<li><a href="recording.php?page=OR-369">OR-369</a></li>
-						<li><a href="recording.php?page=OR-370">OR-370</a></li>
-						<li><a href="recording.php?page=OR-371">OR-371</a></li>
-						<li><a href="recording.php?page=OR-372">OR-372</a></li>
-						<li><a href="recording.php?page=OR-373">OR-373</a></li>
-						<li><a href="recording.php?page=OR-374">OR-374</a></li>
-						<li><a href="recording.php?page=OR-375">OR-375</a></li>
-						<li><a href="recording.php?page=OR-376">OR-376</a></li>
-						<li><a href="recording.php?page=OR-377">OR-377</a></li>
-						<li><a href="recording.php?page=OR-378">OR-378</a></li>
-						<li><a href="recording.php?page=OR-379">OR-379</a></li>
-						<li><a href="recording.php?page=OR-381">OR-381</a></li>
 						<li><a href="recording.php?page=VA-1">VA-1</a></li>
 						<li><a href="recording.php?page=VA-2">VA-2</a></li>
 						<li><a href="recording.php?page=VA-3">VA-3</a></li>
@@ -320,6 +66,7 @@
 						<li><a href="recording.php?page=VA-10">VA-10</a></li>
 						<li><a href="recording.php?page=VA-11">VA-11</a></li>
 						<li><a href="recording.php?page=VA-12">VA-12</a></li>
+						<li><a href="recording.php?page=MO-13">MO-13</a></li>
 						<li><a href="recording.php?page=VA-14">VA-14</a></li>
 						<li><a href="recording.php?page=VA-15">VA-15</a></li>
 						<li><a href="recording.php?page=VA-16">VA-16</a></li>
@@ -350,6 +97,7 @@
 						<li><a href="recording.php?page=VA-41">VA-41</a></li>
 						<li><a href="recording.php?page=VA-42">VA-42</a></li>
 						<li><a href="recording.php?page=VA-43">VA-43</a></li>
+						<li><a href="recording.php?page=KY-44">KY-44</a></li>
 						<li><a href="recording.php?page=VA-45">VA-45</a></li>
 						<li><a href="recording.php?page=VA-46">VA-46</a></li>
 						<li><a href="recording.php?page=VA-47">VA-47</a></li>
@@ -373,41 +121,192 @@
 						<li><a href="recording.php?page=VA-65">VA-65</a></li>
 						<li><a href="recording.php?page=VA-66">VA-66</a></li>
 						<li><a href="recording.php?page=VA-67">VA-67</a></li>
+						<li><a href="recording.php?page=KY-68">KY-68</a></li>
+						<li><a href="recording.php?page=WY-69">WY-69</a></li>
 						<li><a href="recording.php?page=VA-70">VA-70</a></li>
+						<li><a href="recording.php?page=KY-71">KY-71</a></li>
+						<li><a href="recording.php?page=KY-72">KY-72</a></li>
 						<li><a href="recording.php?page=VA-73">VA-73</a></li>
 						<li><a href="recording.php?page=VA-74">VA-74</a></li>
+						<li><a href="recording.php?page=KY-75">KY-75</a></li>
 						<li><a href="recording.php?page=VA-76">VA-76</a></li>
 						<li><a href="recording.php?page=VA-77">VA-77</a></li>
 						<li><a href="recording.php?page=VA-78">VA-78</a></li>
 						<li><a href="recording.php?page=VA-79">VA-79</a></li>
 						<li><a href="recording.php?page=VA-80">VA-80</a></li>
+						<li><a href="recording.php?page=KY-81">KY-81</a></li>
+						<li><a href="recording.php?page=KY-82">KY-82</a></li>
+						<li><a href="recording.php?page=KY-83">KY-83</a></li>
+						<li><a href="recording.php?page=KY-84">KY-84</a></li>
 						<li><a href="recording.php?page=VA-85">VA-85</a></li>
+						<li><a href="recording.php?page=KY-86">KY-86</a></li>
 						<li><a href="recording.php?page=VA-87">VA-87</a></li>
+						<li><a href="recording.php?page=IL-88">IL-88</a></li>
+						<li><a href="recording.php?page=KY-89">KY-89</a></li>
+						<li><a href="recording.php?page=KY-90">KY-90</a></li>
+						<li><a href="recording.php?page=KY-91">KY-91</a></li>
+						<li><a href="recording.php?page=KY-92">KY-92</a></li>
+						<li><a href="recording.php?page=KY-93">KY-93</a></li>
+						<li><a href="recording.php?page=IL-94">IL-94</a></li>
 						<li><a href="recording.php?page=VA-95">VA-95</a></li>
 						<li><a href="recording.php?page=VA-96">VA-96</a></li>
+						<li><a href="recording.php?page=IL-97">IL-97</a></li>
+						<li><a href="recording.php?page=KY-98">KY-98</a></li>
+						<li><a href="recording.php?page=KY-99">KY-99</a></li>
 						<li><a href="recording.php?page=VA-100">VA-100</a></li>
+						<li><a href="recording.php?page=IL-101">IL-101</a></li>
+						<li><a href="recording.php?page=KY-102">KY-102</a></li>
+						<li><a href="recording.php?page=KY-103">KY-103</a></li>
+						<li><a href="recording.php?page=KY-104">KY-104</a></li>
+						<li><a href="recording.php?page=KY-105">KY-105</a></li>
 						<li><a href="recording.php?page=VA-106">VA-106</a></li>
+						<li><a href="recording.php?page=IL-107">IL-107</a></li>
+						<li><a href="recording.php?page=IL-108">IL-108</a></li>
+						<li><a href="recording.php?page=IL-109">IL-109</a></li>
+						<li><a href="recording.php?page=IL-110">IL-110</a></li>
+						<li><a href="recording.php?page=MO-111">MO-111</a></li>
+						<li><a href="recording.php?page=MO-112">MO-112</a></li>
+						<li><a href="recording.php?page=MO-113">MO-113</a></li>
+						<li><a href="recording.php?page=MO-114">MO-114</a></li>
+						<li><a href="recording.php?page=KY-115">KY-115</a></li>
 						<li><a href="recording.php?page=VA-116">VA-116</a></li>
+						<li><a href="recording.php?page=KY-117">KY-117</a></li>
+						<li><a href="recording.php?page=IL-118">IL-118</a></li>
+						<li><a href="recording.php?page=MO-119">MO-119</a></li>
+						<li><a href="recording.php?page=KY-120">KY-120</a></li>
+						<li><a href="recording.php?page=KY-121">KY-121</a></li>
+						<li><a href="recording.php?page=MO-122">MO-122</a></li>
+						<li><a href="recording.php?page=KY-123">KY-123</a></li>
+						<li><a href="recording.php?page=IL-124">IL-124</a></li>
+						<li><a href="recording.php?page=KY-125">KY-125</a></li>
+						<li><a href="recording.php?page=IL-126">IL-126</a></li>
+						<li><a href="recording.php?page=IL-127">IL-127</a></li>
+						<li><a href="recording.php?page=KY-128">KY-128</a></li>
+						<li><a href="recording.php?page=MO-129">MO-129</a></li>
+						<li><a href="recording.php?page=IL-130">IL-130</a></li>
+						<li><a href="recording.php?page=IL-131">IL-131</a></li>
+						<li><a href="recording.php?page=IL-132">IL-132</a></li>
+						<li><a href="recording.php?page=IL-133">IL-133</a></li>
+						<li><a href="recording.php?page=KY-134">KY-134</a></li>
+						<li><a href="recording.php?page=IL-135">IL-135</a></li>
 						<li><a href="recording.php?page=VA-136">VA-136</a></li>
 						<li><a href="recording.php?page=VA-137">VA-137</a></li>
+						<li><a href="recording.php?page=IL-138">IL-138</a></li>
+						<li><a href="recording.php?page=CO-139">CO-139</a></li>
+						<li><a href="recording.php?page=MO-140">MO-140</a></li>
 						<li><a href="recording.php?page=VA-141">VA-141</a></li>
-						<li><a href="recording.php?page=WY-69">WY-69</a></li>
+						<li><a href="recording.php?page=CO-142">CO-142</a></li>
+						<li><a href="recording.php?page=MO-143">MO-143</a></li>
+						<li><a href="recording.php?page=KY-144">KY-144</a></li>
+						<li><a href="recording.php?page=MO-145">MO-145</a></li>
+						<li><a href="recording.php?page=IL-146">IL-146</a></li>
+						<li><a href="recording.php?page=OR-147">OR-147</a></li>
+						<li><a href="recording.php?page=MO-148">MO-148</a></li>
+						<li><a href="recording.php?page=MO-149">MO-149</a></li>
+						<li><a href="recording.php?page=MO-150">MO-150</a></li>
+						<li><a href="recording.php?page=MO-151">MO-151</a></li>
+						<li><a href="recording.php?page=MO-152">MO-152</a></li>
+						<li><a href="recording.php?page=MO-153">MO-153</a></li>
+						<li><a href="recording.php?page=MO-154">MO-154</a></li>
+						<li><a href="recording.php?page=MO-155">MO-155</a></li>
+						<li><a href="recording.php?page=MO-156">MO-156</a></li>
+						<li><a href="recording.php?page=MO-157">MO-157</a></li>
+						<li><a href="recording.php?page=MO-158">MO-158</a></li>
+						<li><a href="recording.php?page=MO-159">MO-159</a></li>
+						<li><a href="recording.php?page=MO-160">MO-160</a></li>
+						<li><a href="recording.php?page=MO-161">MO-161</a></li>
+						<li><a href="recording.php?page=KS-162">KS-162</a></li>
+						<li><a href="recording.php?page=MO-163">MO-163</a></li>
+						<li><a href="recording.php?page=MO-164">MO-164</a></li>
+						<li><a href="recording.php?page=MO-165">MO-165</a></li>
+						<li><a href="recording.php?page=MO-168">MO-168</a></li>
+						<li><a href="recording.php?page=MO-169">MO-169</a></li>
+						<li><a href="recording.php?page=OR-170">OR-170</a></li>
+						<li><a href="recording.php?page=KS-171">KS-171</a></li>
+						<li><a href="recording.php?page=KS-172">KS-172</a></li>
+						<li><a href="recording.php?page=KS-173">KS-173</a></li>
+						<li><a href="recording.php?page=KS-174">KS-174</a></li>
+						<li><a href="recording.php?page=KS-175">KS-175</a></li>
+						<li><a href="recording.php?page=KS-176">KS-176</a></li>
+						<li><a href="recording.php?page=KS-177">KS-177</a></li>
+						<li><a href="recording.php?page=CO-178">CO-178</a></li>
+						<li><a href="recording.php?page=OR-179">OR-179</a></li>
+						<li><a href="recording.php?page=CO-180">CO-180</a></li>
+						<li><a href="recording.php?page=KS-181">KS-181</a></li>
+						<li><a href="recording.php?page=OR-182">OR-182</a></li>
+						<li><a href="recording.php?page=KS-183">KS-183</a></li>
+						<li><a href="recording.php?page=CO-184">CO-184</a></li>
+						<li><a href="recording.php?page=CO-185">CO-185</a></li>
+						<li><a href="recording.php?page=KS-186">KS-186</a></li>
+						<li><a href="recording.php?page=KS-187">KS-187</a></li>
+						<li><a href="recording.php?page=CO-188">CO-188</a></li>
+						<li><a href="recording.php?page=CO-189">CO-189</a></li>
+						<li><a href="recording.php?page=OR-190">OR-190</a></li>
+						<li><a href="recording.php?page=OR-191">OR-191</a></li>
+						<li><a href="recording.php?page=OR-192">OR-192</a></li>
+						<li><a href="recording.php?page=CO-193">CO-193</a></li>
+						<li><a href="recording.php?page=CO-194">CO-194</a></li>
+						<li><a href="recording.php?page=CO-195">CO-195</a></li>
+						<li><a href="recording.php?page=CO-196">CO-196</a></li>
+						<li><a href="recording.php?page=CO-197">CO-197</a></li>
+						<li><a href="recording.php?page=CO-198">CO-198</a></li>
+						<li><a href="recording.php?page=CO-199">CO-199</a></li>
+						<li><a href="recording.php?page=CO-200">CO-200</a></li>
+						<li><a href="recording.php?page=OR-201">OR-201</a></li>
+						<li><a href="recording.php?page=ID-202">ID-202</a></li>
+						<li><a href="recording.php?page=CO-203">CO-203</a></li>
+						<li><a href="recording.php?page=CO-204">CO-204</a></li>
+						<li><a href="recording.php?page=CO-205">CO-205</a></li>
+						<li><a href="recording.php?page=CO-206">CO-206</a></li>
+						<li><a href="recording.php?page=OR-207">OR-207</a></li>
+						<li><a href="recording.php?page=CO-208">CO-208</a></li>
+						<li><a href="recording.php?page=CO-209">CO-209</a></li>
+						<li><a href="recording.php?page=CO-210">CO-210</a></li>
+						<li><a href="recording.php?page=CO-211">CO-211</a></li>
+						<li><a href="recording.php?page=CO-212">CO-212</a></li>
+						<li><a href="recording.php?page=CO-213">CO-213</a></li>
+						<li><a href="recording.php?page=CO-214">CO-214</a></li>
+						<li><a href="recording.php?page=CO-215">CO-215</a></li>
+						<li><a href="recording.php?page=CO-216">CO-216</a></li>
+						<li><a href="recording.php?page=CO-217">CO-217</a></li>
+						<li><a href="recording.php?page=CO-218">CO-218</a></li>
+						<li><a href="recording.php?page=ID-219">ID-219</a></li>
+						<li><a href="recording.php?page=ID-220">ID-220</a></li>
+						<li><a href="recording.php?page=CO-221">CO-221</a></li>
+						<li><a href="recording.php?page=CO-222">CO-222</a></li>
+						<li><a href="recording.php?page=ID-223">ID-223</a></li>
+						<li><a href="recording.php?page=CO-224">CO-224</a></li>
+						<li><a href="recording.php?page=MT-225">MT-225</a></li>
+						<li><a href="recording.php?page=OR-226">OR-226</a></li>
+						<li><a href="recording.php?page=OR-227">OR-227</a></li>
+						<li><a href="recording.php?page=CO-228">CO-228</a></li>
+						<li><a href="recording.php?page=CO-229">CO-229</a></li>
+						<li><a href="recording.php?page=CO-230">CO-230</a></li>
 						<li><a href="recording.php?page=WY-231">WY-231</a></li>
+						<li><a href="recording.php?page=CO-232">CO-232</a></li>
+						<li><a href="recording.php?page=CO-233">CO-233</a></li>
 						<li><a href="recording.php?page=WY-234">WY-234</a></li>
 						<li><a href="recording.php?page=WY-235">WY-235</a></li>
 						<li><a href="recording.php?page=WY-236">WY-236</a></li>
-						<li><a href="recording.php?page=WY-237">WY-237</a></li>
+						<li><a href="recording.php?page=MT-238">MT-238</a></li>
+						<li><a href="recording.php?page=OR-239">OR-239</a></li>
 						<li><a href="recording.php?page=WY-240">WY-240</a></li>
+						<li><a href="recording.php?page=CO-241">CO-241</a></li>
 						<li><a href="recording.php?page=WY-242">WY-242</a></li>
+						<li><a href="recording.php?page=MT-243">MT-243</a></li>
 						<li><a href="recording.php?page=WY-244">WY-244</a></li>
 						<li><a href="recording.php?page=WY-245">WY-245</a></li>
+						<li><a href="recording.php?page=OR-246">OR-246</a></li>
 						<li><a href="recording.php?page=WY-247">WY-247</a></li>
 						<li><a href="recording.php?page=WY-248">WY-248</a></li>
+						<li><a href="recording.php?page=OR-249">OR-249</a></li>
 						<li><a href="recording.php?page=WY-250">WY-250</a></li>
 						<li><a href="recording.php?page=WY-251">WY-251</a></li>
 						<li><a href="recording.php?page=WY-252">WY-252</a></li>
 						<li><a href="recording.php?page=WY-253">WY-253</a></li>
 						<li><a href="recording.php?page=WY-254">WY-254</a></li>
+						<li><a href="recording.php?page=ID-255">ID-255</a></li>
+						<li><a href="recording.php?page=CO-256">CO-256</a></li>
 						<li><a href="recording.php?page=WY-257">WY-257</a></li>
 						<li><a href="recording.php?page=WY-258">WY-258</a></li>
 						<li><a href="recording.php?page=WY-259">WY-259</a></li>
@@ -419,9 +318,110 @@
 						<li><a href="recording.php?page=WY-265">WY-265</a></li>
 						<li><a href="recording.php?page=WY-266">WY-266</a></li>
 						<li><a href="recording.php?page=WY-267">WY-267</a></li>
+						<li><a href="recording.php?page=MT-268">MT-268</a></li>
+						<li><a href="recording.php?page=MT-269">MT-269</a></li>
+						<li><a href="recording.php?page=MT-270">MT-270</a></li>
+						<li><a href="recording.php?page=MT-271">MT-271</a></li>
+						<li><a href="recording.php?page=MT-272">MT-272</a></li>
+						<li><a href="recording.php?page=ID-273">ID-273</a></li>
 						<li><a href="recording.php?page=WY-274">WY-274</a></li>
+						<li><a href="recording.php?page=MT-275">MT-275</a></li>
+						<li><a href="recording.php?page=MT-276">MT-276</a></li>
+						<li><a href="recording.php?page=MT-277">MT-277</a></li>
+						<li><a href="recording.php?page=MT-278">MT-278</a></li>
+						<li><a href="recording.php?page=OR-279">OR-279</a></li>
+						<li><a href="recording.php?page=CO-280">CO-280</a></li>
+						<li><a href="recording.php?page=MT-281">MT-281</a></li>
+						<li><a href="recording.php?page=KS-282">KS-282</a></li>
+						<li><a href="recording.php?page=MT-283">MT-283</a></li>
+						<li><a href="recording.php?page=CO-284">CO-284</a></li>
+						<li><a href="recording.php?page=MT-285">MT-285</a></li>
+						<li><a href="recording.php?page=MT-286">MT-286</a></li>
+						<li><a href="recording.php?page=MT-287">MT-287</a></li>
+						<li><a href="recording.php?page=MT-288">MT-288</a></li>
+						<li><a href="recording.php?page=MT-289">MT-289</a></li>
+						<li><a href="recording.php?page=MT-290">MT-290</a></li>
+						<li><a href="recording.php?page=MT-291">MT-291</a></li>
+						<li><a href="recording.php?page=MT-292">MT-292</a></li>
+						<li><a href="recording.php?page=OR-293">OR-293</a></li>
+						<li><a href="recording.php?page=MT-294">MT-294</a></li>
+						<li><a href="recording.php?page=OR-295">OR-295</a></li>
+						<li><a href="recording.php?page=MT-296">MT-296</a></li>
+						<li><a href="recording.php?page=MT-297">MT-297</a></li>
+						<li><a href="recording.php?page=ID-298">ID-298</a></li>
+						<li><a href="recording.php?page=ID-299">ID-299</a></li>
+						<li><a href="recording.php?page=OR-300">OR-300</a></li>
+						<li><a href="recording.php?page=ID-302">ID-302</a></li>
+						<li><a href="recording.php?page=ID-303">ID-303</a></li>
+						<li><a href="recording.php?page=ID-304">ID-304</a></li>
+						<li><a href="recording.php?page=ID-305">ID-305</a></li>
+						<li><a href="recording.php?page=ID-307">ID-307</a></li>
+						<li><a href="recording.php?page=ID-308">ID-308</a></li>
+						<li><a href="recording.php?page=ID-309">ID-309</a></li>
+						<li><a href="recording.php?page=ID-310">ID-310</a></li>
+						<li><a href="recording.php?page=OR-311">OR-311</a></li>
+						<li><a href="recording.php?page=OR-312">OR-312</a></li>
+						<li><a href="recording.php?page=OR-313">OR-313</a></li>
+						<li><a href="recording.php?page=OR-314">OR-314</a></li>
 						<li><a href="recording.php?page=WY-316">WY-316</a></li>
-						<li><a href="recording.php?page=WY-321">WY-321</a></li>			
+						<li><a href="recording.php?page=CO-317">CO-317</a></li>
+						<li><a href="recording.php?page=WY-321">WY-321</a></li>
+						<li><a href="recording.php?page=ID-323">ID-323</a></li>
+						<li><a href="recording.php?page=OR-324">OR-324</a></li>
+						<li><a href="recording.php?page=OR-325">OR-325</a></li>
+						<li><a href="recording.php?page=CO-326">CO-326</a></li>
+						<li><a href="recording.php?page=OR-327">OR-327</a></li>
+						<li><a href="recording.php?page=OR-328">OR-328</a></li>
+						<li><a href="recording.php?page=OR-329">OR-329</a></li>
+						<li><a href="recording.php?page=OR-330">OR-330</a></li>
+						<li><a href="recording.php?page=OR-331">OR-331</a></li>
+						<li><a href="recording.php?page=OR-332">OR-332</a></li>
+						<li><a href="recording.php?page=OR-333">OR-333</a></li>
+						<li><a href="recording.php?page=OR-334">OR-334</a></li>
+						<li><a href="recording.php?page=OR-336">OR-336</a></li>
+						<li><a href="recording.php?page=OR-337">OR-337</a></li>
+						<li><a href="recording.php?page=OR-338">OR-338</a></li>
+						<li><a href="recording.php?page=OR-339">OR-339</a></li>
+						<li><a href="recording.php?page=OR-341">OR-341</a></li>
+						<li><a href="recording.php?page=OR-342">OR-342</a></li>
+						<li><a href="recording.php?page=OR-343">OR-343</a></li>
+						<li><a href="recording.php?page=ID-344">ID-344</a></li>
+						<li><a href="recording.php?page=OR-345">OR-345</a></li>
+						<li><a href="recording.php?page=OR-346">OR-346</a></li>
+						<li><a href="recording.php?page=OR-347">OR-347</a></li>
+						<li><a href="recording.php?page=MT-348">MT-348</a></li>
+						<li><a href="recording.php?page=OR-350">OR-350</a></li>
+						<li><a href="recording.php?page=ID-351">ID-351</a></li>
+						<li><a href="recording.php?page=OR-352">OR-352</a></li>
+						<li><a href="recording.php?page=OR-353">OR-353</a></li>
+						<li><a href="recording.php?page=OR-354">OR-354</a></li>
+						<li><a href="recording.php?page=OR-355">OR-355</a></li>
+						<li><a href="recording.php?page=OR-356">OR-356</a></li>
+						<li><a href="recording.php?page=OR-357">OR-357</a></li>
+						<li><a href="recording.php?page=OR-358">OR-358</a></li>
+						<li><a href="recording.php?page=OR-359">OR-359</a></li>
+						<li><a href="recording.php?page=OR-360">OR-360</a></li>
+						<li><a href="recording.php?page=OR-361">OR-361</a></li>
+						<li><a href="recording.php?page=OR-362">OR-362</a></li>
+						<li><a href="recording.php?page=OR-363">OR-363</a></li>
+						<li><a href="recording.php?page=OR-364">OR-364</a></li>
+						<li><a href="recording.php?page=OR-365">OR-365</a></li>
+						<li><a href="recording.php?page=OR-366">OR-366</a></li>
+						<li><a href="recording.php?page=OR-367">OR-367</a></li>
+						<li><a href="recording.php?page=OR-368">OR-368</a></li>
+						<li><a href="recording.php?page=OR-369">OR-369</a></li>
+						<li><a href="recording.php?page=OR-370">OR-370</a></li>
+						<li><a href="recording.php?page=OR-371">OR-371</a></li>
+						<li><a href="recording.php?page=OR-372">OR-372</a></li>
+						<li><a href="recording.php?page=OR-373">OR-373</a></li>
+						<li><a href="recording.php?page=OR-374">OR-374</a></li>
+						<li><a href="recording.php?page=OR-375">OR-375</a></li>
+						<li><a href="recording.php?page=OR-376">OR-376</a></li>
+						<li><a href="recording.php?page=OR-377">OR-377</a></li>
+						<li><a href="recording.php?page=OR-378">OR-378</a></li>
+						<li><a href="recording.php?page=OR-379">OR-379</a></li>
+						<li><a href="recording.php?page=OR-381">OR-381</a></li>
+						<li><a href="recording.php?page=WY-237">WY-</a></li>	
 					</ul>
 				</div><!--number-list-->
 				
