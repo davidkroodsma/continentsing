@@ -62,7 +62,7 @@ for f in onlyfiles:
 		data=fi.read()
 		fi.close()
 		web_text = markdown2.markdown(data)
-		web_text = web_text.replace(u"\u2018", "").replace(u"\u2019", "").replace(u"\u201c","").replace(u"\u201d", "").replace(u'\u2014',"--").replace(u'\xef',"'")
+		web_text = web_text.replace(u"\u2018", "'").replace(u"\u2019", "'").replace(u"\u201c",'"').replace(u"\u201d", '"').replace(u'\u2014',"--").replace(u'\xef',"'")
 		web_text = web_text.replace(u'\xbd',"1/2")
 		web_text = web_text.replace("../images","markdown/images")
 		outfile = f.replace(".md","")

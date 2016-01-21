@@ -111,8 +111,10 @@
 				<div id="this" class="meta">
 					<h5 class="caps">This recording</h5>
 					<ul>
-						<li><a href="search.php#state-list"><span class="i-state"></span> Coastal Virginia</a></li>
-						<li><a href="search.php#species-list"><span class="i-bird"></span> Thrushes, <em>Turdidae</em></a></li>
+						<?php include("./birds/thisrecording/".$page.".html"); ?>
+<!-- 						<li><a href="search.php#state-list"><span class="i-state"></span> Coastal Virginia</a></li>
+ -->						
+ <!-- <li><a href="search.php#species-list"><span class="i-bird"></span> Thrushes, <em>Turdidae</em></a></li> -->
 					</ul>
 				
 				</div><!--this-->
@@ -120,8 +122,10 @@
 				<div id="related" class="meta">
 					<h5 class="caps">Related recordings</h5>
 					<ul>
-						<li>American Robin VA-1, VA-53, WY-244, MT-285, (ID-298)</li>
-						<li>Fish crow (VA-1), VA-7</li>
+						<?php include("./birds/relatedrecordings/".$page.".html"); ?>
+
+<!-- 						<li>American Robin VA-1, VA-53, WY-244, MT-285, (ID-298)</li>
+						<li>Fish crow (VA-1), VA-7</li> -->
 					</ul>
 				
 				</div><!--related-->

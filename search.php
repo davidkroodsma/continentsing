@@ -1,3 +1,7 @@
+<?php 
+   $dropdown = (isset($_GET['dropdown']))? $_GET['dropdown'] : '';
+?>
+
 
 <!doctype html>
 <html lang="en">
@@ -19,9 +23,27 @@
 		<!--[if lt IE 9]>
 		<script src="//html5shim.googlecode.com/svn/trunk/html5.js"></script>
 		<![endif]-->
+		<script type="text/javascript">
+
+		$.fn.scrollView = function () {
+		    return this.each(function () {
+		        $('html, body').animate({
+		            scrollTop: $(this).offset().top
+		        }, 1000);
+		    });
+		}
 		
+    	function dropdown(d){
+    	  if (d==""){return;}
+    	  else{
+	    	  var myLink = document.getElementById(d);
+				myLink.click();
+    	  }
+    	  $('#'+d).scrollView();
+	    }
+	    </script>
 	</head>
-	<body class="search">
+	<body class="search" onload="dropdown('<?php echo($dropdown); ?>');">
 		
 		<header class="wrap">
 			<h1 class="center"><a href="index.php">Listening to a Continent Sing</a></h1>
@@ -433,12 +455,13 @@
 					<h2>search recordings by species</h2>
 					<p>From the Atlantic to the Pacific, choose any particular species that you’d like to listen to. Each listening opportunity is coded by state (VA for Virginia to OR for Oregon), and by the recording number as referenced in the text of the book Listening to a Continent Sing, Birdsong by Bicycle from the Atlantic to the Pacific. (Numbers in parentheses refer to recordings in which the species can be heard in the background; e.g., the Canada goose can be plainly heard in the background of the rock wren in WY-274).</p>
 					<ul class="collapser">
-						<li><a href="#">Ducks, geese</a></li>
+						<?php include('birds/search-species.html');?>
+					<!-- 	<li><a href="#">Ducks, geese</a></li>
 						<li><a href="#">Quail, grouse, pheasants</a></li>
-						<li><a href="#">Grebes</a></li>
+						<li><a href="#">Grebes</a></li>			
 						<li><a href="#">Osprey, hawks</a></li>
 						<li><a href="#">Rails, cranes</a></li>
-						<li><a href="#"><span class="i-plus-circle"></span> Shorebirds, gulls, guillemots</a>
+							<li><a href="#"><span class="i-plus-circle"></span> Shorebirds, gulls, guillemots</a>
 							<ul class="show-hide">
 								<li><em>Haematopidae</em>
 									<ul>
@@ -461,18 +484,18 @@
 								</li>
 								<li><em>Alcidae</em>
 									<ul>
-										<li>Pigeon guillemot <a href="recording.php">(OR-379)</a></li>
-									</ul>
-								</li>
-								<li><em>Laridae</em>
-									<ul>
-										<li>Laughing gull <a href="recording.php">(VA-6)</a>, <a href="recording.php">VA-8</a></li>
-										<li>Western gull <a href="recording.php">OR-379</a></li>
-									</ul>
-								</li>
-							</ul>
-						
-						</li>
+											<li>Pigeon guillemot <a href="recording.php">(OR-379)</a></li>
+										</ul>
+									</li>
+									<li><em>Laridae</em>
+										<ul>
+											<li>Laughing gull <a href="recording.php">(VA-6)</a>, <a href="recording.php">VA-8</a></li>
+											<li>Western gull <a href="recording.php">OR-379</a></li>
+										</ul>
+									</li>
+								</ul>
+							
+							</li>	 -->			
 					</ul>
 				</div><!--species-list-->
 				
@@ -484,7 +507,8 @@
 					<p>Sweep the continent on the TransAm bicycle route from Virginia to Oregon, through ten states, and pick where you want to listen. You can start on the Atlantic in Historical, coastal Virginia and head west all the way to the Pacific Coast in Oregon. </p>
 					<p>Here’s a quick index of your listening locations:</p>
 					<ul class="collapser">
-						<li><a href="#"><span class="i-plus-circle"></span> Historical, coastal Virginia</a>
+						<?php include("./birds/search-location.html"); ?>
+					<!-- 	<li><a href="#"><span class="i-plus-circle"></span> Historical, coastal Virginia</a>
 							<ul class="show-hide">
 								<li>Laughing gull <a href="recording.php">VA-8</a></li>
 								<li>Willet <a href="recording.php">(VA-8)</a></li>
@@ -529,7 +553,7 @@
 						<li><a href="#">Eastern Oregon</a></li>
 						<li><a href="#">Over the Cascades, Oregon</a></li>
 						<li><a href="#">Homecoming, in Willamette Valley of Oregon</a></li>
-						<li><a href="#">Pacific coast, Oregon</a></li>
+						<li><a href="#">Pacific coast, Oregon</a></li> -->
 					</ul>
 				</div><!--state-list-->
 				
@@ -546,7 +570,9 @@
 					
 					
 					<ul class="collapser">
-						<li><a href="#">Virginia</a></li>
+						<?php include('./birds/search-dc-states.html');?>
+
+						<!-- <li><a href="#">Virginia</a></li>
 						<li><a href="#"><span class="i-plus-circle"></span> Kentucky</a>
 							<ul class="show-hide">
 								<li>Eastern wood-pewee, KY-144</li>
@@ -566,13 +592,14 @@
 						<li><a href="#">Wyoming</a></li>
 						<li><a href="#">Montana</a></li>
 						<li><a href="#">Idaho</a></li>
-						<li><a href="#">Oregon</a></li>
+						<li><a href="#">Oregon</a></li> -->
 					</ul>
 				
 					<h3>Quick index by species</h3>
 				 
 					<ul class="collapser">
-						<li><a href="#">Rails</a></li>
+						<?php include('./birds/search-species.html');?>
+					<!-- 	<li><a href="#">Rails</a></li>
 						<li><a href="#">Owls</a></li>
 						<li><a href="#"><span class="i-plus-circle"></span> Nightjars</a>
 							<ul class="show-hide">
@@ -596,7 +623,7 @@
 						<li><a href="#">Cardinals, tanagers, grosbeaks, buntings</a></li>
 						<li><a href="#">Blackbirds</a></li>
 						<li><a href="#">Finches</a></li>
-						<li><a href="#">House sparrow</a></li>
+						<li><a href="#">House sparrow</a></li> -->
 					
 					</ul>
 				
@@ -611,5 +638,6 @@
 			<p>&copy;2015 Donald Kroodsma. Web design by <a href="http://www.ehwdesign.com" target="_blank">EHW Design.</a></p>
 		</footer>
 			
+
 	</body>
 </html>
