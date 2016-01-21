@@ -443,7 +443,7 @@
 						<li><a href="recording.php?page=OR-378">OR-378</a></li>
 						<li><a href="recording.php?page=OR-379">OR-379</a></li>
 						<li><a href="recording.php?page=OR-381">OR-381</a></li>
-						<li><a href="recording.php?page=WY-237">WY-</a></li>	
+						<li><a href="recording.php?page=WY-237">WY-237</a></li>	
 					</ul>
 				</div><!--number-list-->
 				
