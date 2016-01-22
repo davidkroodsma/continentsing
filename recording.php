@@ -1,7 +1,7 @@
 <!doctype html>
 <?php include("keyarray.php");?>
 
-<?php $autoplay = (isset($_GET['autoplay']))? $_GET['autoplay'] : false;
+<?php $autoplay = (isset($_GET['autoplay']))? $_GET['autoplay'] : -1;
    //$song =  (isset($_GET['s']))? $_GET['s'] : '1';
    //$song = 'birdsong/'.$song.".mp3";
    $page = (isset($_GET['page']))? $_GET['page'] : 'VA-1';
@@ -52,7 +52,7 @@
 				
 				<div id="audio">
 					<!--<img src="assets/img/player.gif" alt="" />-->
-					<audio controls <?php if($autoplay){echo 'autoplay';}?> >
+					<audio controls <?php if($autoplay==$number){echo 'autoplay';} ?> >
 						<?php $song = "birdsong/".$key_array[$page][$number].".mp3"; ?>
 					    <source src="<?php echo $song; ?>" type="audio/mpeg">
 						Your browser does not support the audio element.

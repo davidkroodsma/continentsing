@@ -1,8 +1,21 @@
 <!DOCTYPE html>
 
-<?php $autoplay = (isset($_GET['autoplay']))? $_GET['autoplay'] : true;
-   $song =  (isset($_GET['s']))? $_GET['s'] : '1';
-   $song = 'birdsong/'.$song.".mp3";
+<?php include('keyarray_numbers.php');?>
+
+<?php 
+
+//the following is for a redirect
+
+
+$autoplay = (isset($_GET['autoplay']))? $_GET['autoplay'] : true;
+   $s =  (isset($_GET['s']))? $_GET['s'] : '1';
+   $song = 'birdsong/'.$s.".mp3";
+   $key = $key_array_num["$s"];
+   $num = $key_array_order["$s"]-1;
+   $url = "http://listeningtoacontinentsing.com/recording.php?page=".$key."&autoplay=".$num;
+   header($url);
+;
+
 ?>
 
 <html>

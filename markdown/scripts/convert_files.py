@@ -25,7 +25,7 @@ for f in onlyfiles:
 
 audio_text = '''
 				<div id="audio">
-					<audio controls <?php if($autoplay){echo 'autoplay';}?> >
+					<audio controls <?php if($autoplay==$number){echo 'autoplay';}?> >
 						<?php $song = "birdsong/".$key_array[$page][$number].".mp3"; ?>
 					    <source src="<?php echo $song; ?>" type="audio/mpeg">
 						Your browser does not support the audio element.
