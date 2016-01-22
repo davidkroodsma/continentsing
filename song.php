@@ -6,12 +6,27 @@
 ?>
 
 <html>
+<head>
+	<style>
+		div {
+	    width: 300px;
+	    height: 100px;
+	    position: absolute;
+	    top:0;
+	    bottom: 0;
+	    left: 0;
+	    right: 0;
+
+	    margin: auto;
+	}
+	</style>
+	</head>
 <body>
 
-<audio controls <?php if($autoplay){echo 'autoplay';}?> >
+<div><audio controls <?php if($autoplay){echo 'autoplay';}?> >
   <source src="<?php echo $song; ?>" type="audio/mpeg">
 Your browser does not support the audio element.
-</audio>
+</audio></div>
 
 </body>
 </html>
