@@ -13,8 +13,8 @@ $autoplay = (isset($_GET['autoplay']))? $_GET['autoplay'] : true;
    $key = $key_array_num["$s"];
    $num = $key_array_order["$s"]-1;
    $url = "http://listeningtoacontinentsing.com/recording.php?page=".$key."&autoplay=".$num;
-   header($url);
-;
+   echo $url;
+   header("Location: ".$url);
 
 ?>
 
