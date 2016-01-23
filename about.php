@@ -49,6 +49,8 @@
 				<h3>Credits</h3>
 				<p>I owe an enormous thank you to <a href="http://Birdsbyjohn.com">John Van de Graaff</a> for offering so many of his bird photos to grace this website. Also especially generous were Brian L. Sullivan of the <a href="#">Cornell Lab of Ornithology</a>, <a href="http://www.natureimagesandsounds.com/">Wil Hershberger</a>, and <a href="http://roysephotos.com/">Robert Royse</a>. Web design was by <a href="http://www.ehwdesign.com/">Ethan Hazard-Watkins</a>; web development by <a href="http://kroodsma.com/">David Kroodsma</a>, my extraordinary son and bicycling companion on our coast-to-coast listening adventure, and author of <a href="http://rideforclimate.com/">The Bicycle Diaries: My 21,000 Mile Ride for the Climate</a>.</p>				
 				
+				<h3>About some missing QR codes</h3>
+				<p>In the LISTEN BY NUMBER section, the astute observer may notice that some numbers in the sequence from VA-1 to OR-381 are missing. That is by design (not necessarily the best, admittedly!). In the book, I sometimes wanted to encourage listening to the same sound in two different places, e.g., the Pacific wren in Montana (#293) and again in Oregon (#300). So in the book two different numbers are provided, but both numbers take you to OR-293 on this website. Another reason for a missing number is that I later chose to incorporate two or more numbers on the same web page, so that, for example, #166 and #167 take you to the webpage for MO-165. </p>				
 				
 				
 			</div><!--main-->
