@@ -9,24 +9,22 @@ taxon = {}
 ts = []
 
 states = {}
-s_ordered = ['Virginia','Kentucky','Illinois','Missouri','Kansas','Colorado','Wyoming','Montana','Idaho','Oregon']
+s_ordered = ['Virginia', 'Kentucky', 'Illinois', 'Missouri','Kansas','Colorado', 'Wyoming', 'Montana', 'Idaho', 'Oregon']
 s_ab = {}
 
-s_ab['VA']= 'Virginia'
-s_ab['KY']= 'Kentucky'
-s_ab["IL"]= 'Illinois'
-s_ab['MO']= 'Missouri'
-s_ab["KS"]= 'Kansas'
-s_ab['CO']= 'Colorado'
-s_ab['WY']= 'Wyoming'
-s_ab["MT"]= 'Montana'
-s_ab['ID']= 'Idaho'
-s_ab['OR']= 'Oregon'
+s_ab['VA'] = 'Virginia'
+s_ab['KY'] = 'Kentucky'
+s_ab["IL"] = 'Illinois'
+s_ab['MO'] = 'Missouri'
+s_ab["KS"] = 'Kansas'
+s_ab['CO'] = 'Colorado'
+s_ab['WY'] = 'Wyoming'
+s_ab["MT"] = 'Montana'
+s_ab['ID'] = 'Idaho'
+s_ab['OR'] = 'Oregon'
 
 locations = []
 location_key = {}
-
-
 
 key_to_location = {}
 key_to_taxon = {}
@@ -34,22 +32,24 @@ key_to_species = {}
 
 taxon_long_to_taxon_short = {}
 
+
 def remove_bad_char(st):
     if len(st)>1:
-        while st[-1] == ' ': #stupid space at end
+        while st[-1] == ' ': # stupid space at end
             st = st[:-1]
             if len(st)<1:
                 break
 
     return st.replace("\u2018", "'").replace("\u2019", "'").replace("\u201c",'"').replace("\u201d", '"').replace('\u2014',"--").replace('\xef',"'").replace('\xd5',"'")
 
+
 def convert_to_tag(st):
     if len(st)>1:
-        while len(st)>1: #stupid space at end
+        while len(st)>1: # stupid space at end
             st = st[:-1]
             if len(st)<1:
                 break
-    return st.replace(" ","_").replace(",","").replace("(","").replace(")","").replace('"',"").replace("'","").lower()
+    return st.replace(" ", "_").replace(",", "").replace("(", "").replace(")", "").replace('"', "").replace("'", "").lower()
 
 
 with open(sourcedir + filename,'rU') as f:
@@ -161,7 +161,7 @@ for l in locations:
             s += '<a href="recording.php?page='+p+'">'+p+'</a>, '
         for p in species[b]['secondary']:
             s += '<a href="recording.php?page='+p+'">('+p+')</a>, '
-        s = s[:-2] #cut off hte last comma and space
+        s = s[:-2] #cut off the last comma and space
         s+=' </li>\n'
         f.write(s)
     f.write("  </ul>\n</li>\n")
@@ -171,17 +171,29 @@ f.close()
 
 #now state names for the dawn chorus
 
+
+
+#read in the Dawn Chorus csv
+
+dawn_chorus = []
+
+filename = 'DawnChorus.csv'
+
+with open(sourcedir + filename, 'rU') as f:
+    reader = csv.DictReader(f, delimiter=',')
+    for row in reader:
+        dawn_chorus.append(row)
+
+
 f = open('../../birds/search-dc-states.html','w')
-
-# for l in locations:
-#     print l
-#print location_key
-
 for st in s_ordered:
     print st
     s = '''<li><a href="#" id="'''+convert_to_tag(st)+'''"><span class="i-plus-circle"></span>'''+st+'''</a>\n  <ul class="show-hide">\n'''
     f.write(s)
-    birds = sorted(states[st])
+    birds = []
+    for row in dawn_chorus:
+        if row['State'] == st:
+            birds.append(remove_bad_char(row['species']))
     # print birds
     for b in birds:
         s = '        <li>'+b+' '
@@ -196,6 +208,43 @@ for st in s_ordered:
 
 f.close()
 
+# dawn chorus search by species
+
+dawn_chorus = sorted(dawn_chorus, key=lambda k: int(k['Species group rank']))
+dc_species = []
+for d in dawn_chorus:
+    if d['Species group for Quick index by species'] not in dc_species:
+        dc_species.append(d['Species group for Quick index by species'])
+
+# put the table back in order
+dawn_chorus = sorted(dawn_chorus, key=lambda k: int(k['Table organizer']))
+
+f = open('../../birds/search-dc-species.html', 'w')
+for st in dc_species:
+    print st
+    s = '''<li><a href="#" id="'''+convert_to_tag(st)+'''"><span class="i-plus-circle"></span>'''+st+'''</a>\n  <ul class="show-hide">\n'''
+    f.write(s)
+    birds = []
+    for row in dawn_chorus:
+        if row['Species group for Quick index by species'] == st:
+            birds.append(remove_bad_char(row['species']))
+    # print birds
+    for b in birds:
+        s = '        <li>'+b+' '
+        for p in species[b]['primary']:
+            s += '<a href="recording.php?page='+p+'">'+p+'</a>, '
+        for p in species[b]['secondary']:
+            s += '<a href="recording.php?page='+p+'">('+p+')</a>, '
+        s = s[:-2] #cut off hte last comma and space
+        s+=' </li>\n'
+        f.write(s)
+    f.write("  </ul>\n</li>\n")
+
+f.close()
+
+
+
+# Create Text for thislocation
 
 for k in key_to_location:
     f= open('../../birds/thisrecording/'+k+".html","w")

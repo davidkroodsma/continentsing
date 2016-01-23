@@ -598,7 +598,7 @@
 					<h3>Quick index by species</h3>
 				 
 					<ul class="collapser">
-						<?php include('./birds/search-species.html');?>
+						<?php include('./birds/search-dc-species.html');?>
 					<!-- 	<li><a href="#">Rails</a></li>
 						<li><a href="#">Owls</a></li>
 						<li><a href="#"><span class="i-plus-circle"></span> Nightjars</a>
