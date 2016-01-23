@@ -1,4 +1,4 @@
-Kentucky, May 16, Pippa Passes to Booneville.
+####Kentucky, May 16, Pippa Passes to Booneville.
 
  A little after 5 A.M., we ride through Alice Lloyd College on Purpose Road, crossing Integrity Lane, then Faith Avenue, then Action, Character, Conscience, Perseverance, Courage, Consecration. At each intersection, in the lighted bubble of a streetlight, are dawn-singing robins and phoebes and cardinals, each getting a jump on their singing day. Beyond the college, silence reigns, except for barking dogs, crowing roosters ... the _you-allllllllll_ of a female barred owl. 
 
