@@ -39,20 +39,20 @@
 				</p>
 				
 				<ul class="collapser">
-					<li><a href="#"><span class="i-plus-circle"></span> Virginia</a>
-						<div class="synopsis show-hide">
+					<li><a href="#"><span class="i-plus-circle"></span> Virginia</a><?php include('./birds/text_lookinside/virginia.html');?>
+<!-- 						<div class="synopsis show-hide">
 							<h4>Virginia, May 9, a Blue Ridge dawn</h4>
 							<p>An hour before sunrise, the rain magically stops as we ease up the ramp to the Parkway just above Afton. White beacons of dogwood blooms line the way as we glide past whip-poor-wills jarring the night, when a roadside bush announces the day with a tentative chewink. A towhee, I smile. Others join in, with calling and fragmented singing, drink ... chewink ... teeeeeee ... your ... chewink ... drink teeeeee ..., successive calls and song bits all jumbled. In their dawn frenzy is no hint of the laid-back, repetitive singing they’ll use later in the day. </p>
 							<p>Whit-whit, wood thrushes awake, their two-voiced singing one of the wonders of eastern woodlands. And chip-burr, the call of a scarlet tanager from the canopy, followed by disjointed dawn song, the phrases delivered haltingly, punctuated every dozen or so by another chip-burr. For 40 minutes the wave of dawn light and song will pass, sweeping west to the Pacific, and we ride the wave, racing down the steep grades, slowing to a crawl on the uphills, all the while feasting on the dawn singing of ... chipping sparrows sputtering their songs from the ground ... lingering woodcocks skydancing overhead ... field sparrows chipping madly between complex songs three times the length of their normal daytime bouncing ball song...</p>
-						</div>
+						</div> -->
 					</li>
-					<li><a href="#"><span class="i-plus-circle"></span> Kentucky</a>
-						<div class="synopsis show-hide">
+					<li><a href="#"><span class="i-plus-circle"></span> Kentucky</a><?php include('./birds/text_lookinside/kentucky.html');?>
+<!-- 						<div class="synopsis show-hide">
 							<h4>Kentucky, May 16, Pippa Passes to Booneville.</h4>
 							<p>A little after 5 a.m., we ride through Alice Lloyd College on Purpose Road, crossing Integrity Lane, then Faith Avenue, then Action, Character, Conscience, Perseverance, Courage, Consecration. At each intersection, in the lighted bubble of a streetlight, are dawn-singing robins and phoebes and cardinals, each getting a jump on their singing day. Beyond the college, silence reigns, except for barking dogs, crowing roosters ... the you-allllllllll of a female barred owl. 
 							<p>All around us warblers announce the dawn: blue-wings stutter a tsi tsi tsi tsi tsi tis tsi zweeeeeeeeeeee ti ti ti; black-and-whites squeeze out a few thin, rapid wese wese notes, then drop to lower notes before ending high; parulas swirl skyward with a complex buzzy song. Each yellow works through a dozen different “sweet” songs; redstarts bounce among two to four songs; hoodeds sing with the same clear quality of their one tawee tawee tawee TEE-o daytime song, but each song now feels more jumbled, and successive songs are always different. Each warbler in his own excited voice, each in his own way, but on one matter they all agree: All airtime  between songs must be filled with emphatic chipping.</p> 
 							<p>About sunrise I hear the mood shift. Blue-wings offer their lazy beee-bzzzzzzzzz daytime song, black-and-whites their deliberate weesee-weesee-weesee, parulas their simpler daytime song as well. Now each yellow, redstart, and hooded delivers only his one special song that he’s saved for once the dawn wave has passed.  </p>
-						
+ -->						
 						
 						</div>
 					
