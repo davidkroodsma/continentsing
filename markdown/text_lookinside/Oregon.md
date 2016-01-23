@@ -1,4 +1,4 @@
-Oregon, July 4-12. 
+####Oregon, July 4-12. 
 
 A birthday present to myself, I again ride early, now out of Dayville by streetlight. On the right, from high in the trees near the post office, zip code 93825, a single wood-pewee alternates his two dawn songs. A deer spooks beside the road and crashes off through the brush. Just outside of town a western kingbird sputters through his dawn songs, and in the lush riparian habitat along the river I soon hear robins, song sparrows, yellow warblers, house wrens, house finches, lazuli buntings. To the left a California quail offers his _chi-CAH-go_, and high above a nighthawk calls. 
 
