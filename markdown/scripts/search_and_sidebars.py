@@ -178,11 +178,12 @@ f.close()
 dawn_chorus = []
 
 filename = 'DawnChorus.csv'
-
+pages_in_dc = []
 with open(sourcedir + filename, 'rU') as f:
     reader = csv.DictReader(f, delimiter=',')
     for row in reader:
         dawn_chorus.append(row)
+        pages_in_dc.append(row['recording'].replace(" ", ''))
 
 
 f = open('../../birds/search-dc-states.html','w')
@@ -193,14 +194,16 @@ for st in s_ordered:
     birds = []
     for row in dawn_chorus:
         if row['State'] == st:
-            birds.append(remove_bad_char(row['species']))
-    # print birds
+            if remove_bad_char(row['species']) not in birds:
+                birds.append(remove_bad_char(row['species']))    # print birds
     for b in birds:
         s = '        <li>'+b+' '
         for p in species[b]['primary']:
-            s += '<a href="recording.php?page='+p+'">'+p+'</a>, '
+            if p in pages_in_dc: # has to be in dawn chorus recordings
+                s += '<a href="recording.php?page='+p+'">'+p+'</a>, '
         for p in species[b]['secondary']:
-            s += '<a href="recording.php?page='+p+'">('+p+')</a>, '
+            if p in pages_in_dc: # has to be in dawn chorus recordings
+                s += '<a href="recording.php?page='+p+'">('+p+')</a>, '
         s = s[:-2] #cut off hte last comma and space
         s+=' </li>\n'
         f.write(s)
@@ -227,14 +230,17 @@ for st in dc_species:
     birds = []
     for row in dawn_chorus:
         if row['Species group for Quick index by species'] == st:
-            birds.append(remove_bad_char(row['species']))
+            if remove_bad_char(row['species']) not in birds:
+                birds.append(remove_bad_char(row['species']))
     # print birds
     for b in birds:
         s = '        <li>'+b+' '
         for p in species[b]['primary']:
-            s += '<a href="recording.php?page='+p+'">'+p+'</a>, '
+            if p in pages_in_dc: # has to be in dawn chorus recordings
+                s += '<a href="recording.php?page='+p+'">'+p+'</a>, '
         for p in species[b]['secondary']:
-            s += '<a href="recording.php?page='+p+'">('+p+')</a>, '
+            if p in pages_in_dc: # has to be in dawn chorus recordings
+                s += '<a href="recording.php?page='+p+'">('+p+')</a>, '
         s = s[:-2] #cut off hte last comma and space
         s+=' </li>\n'
         f.write(s)
