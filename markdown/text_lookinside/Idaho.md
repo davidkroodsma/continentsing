@@ -1,4 +1,4 @@
-Idaho, June 30.
+####Idaho, June 30.
 
  West of the Lolo Pass divide between Montana and Idaho, drops and trickles and rivulets from the watershed here soon merge to form a roaring river that we swoop down to meet. A rainbow flies across the road in front of me, a male western tanager, the red and yellow and black and white aglow in the rays of the early morning sun shining over my shoulder. And a Steller's jay, shook shook shook he calls, flying so close I see the details, the black crest and head giving way to a sky blue belly, a grayish back, the deep, rich blue of the wings flashing with each stroke; in this light, he's radiant, iridescent even, the birds here as colorful as found in any lush rainforest, as if to remind us that we are no longer in the rain shadow of the Bitterroots. 
 
