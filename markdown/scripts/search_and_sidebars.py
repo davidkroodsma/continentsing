@@ -126,7 +126,7 @@ for t in sorted(ts):
     # print sorted_taxons
     # exit()
     for st in taxon[t]:
-        s =  "    <li><em>"+st+"</em>\n      <ul>\n"
+        s = "    <li><em>"+st+"</em>\n      <ul>\n"
         f.write(s)
         # print taxon[t][st]
         birds = sorted(taxon[t][st])
@@ -137,7 +137,7 @@ for t in sorted(ts):
             for p in species[b]['secondary']:
                 s += '<a href="recording.php?page='+p+'">('+p+')</a>, '
             s = s[:-2] #cut off hte last comma and space
-            s+=' </li>\n'
+            s +=' </li>\n'
             f.write(s)
         f.write("      </ul>\n    </li>\n")
     f.write("  </ul>\n</li>")
@@ -199,10 +199,10 @@ for st in s_ordered:
     for b in birds:
         s = '        <li>'+b+' '
         for p in species[b]['primary']:
-            if p in pages_in_dc: # has to be in dawn chorus recordings
+            if p in pages_in_dc and s_ab[p[:2]]==st: # has to be in dawn chorus recordings
                 s += '<a href="recording.php?page='+p+'">'+p+'</a>, '
         for p in species[b]['secondary']:
-            if p in pages_in_dc: # has to be in dawn chorus recordings
+            if p in pages_in_dc and s_ab[p[:2]]==st: # has to be in dawn chorus recordings
                 s += '<a href="recording.php?page='+p+'">('+p+')</a>, '
         s = s[:-2] #cut off hte last comma and space
         s+=' </li>\n'
