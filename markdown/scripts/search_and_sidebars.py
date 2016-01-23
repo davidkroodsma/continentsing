@@ -35,13 +35,20 @@ key_to_species = {}
 taxon_long_to_taxon_short = {}
 
 def remove_bad_char(st):
-    while st[-1] == ' ' and len(st)>1: #stupid space at end
-        st = st[:-1]
-    return  st.replace("\u2018", "'").replace("\u2019", "'").replace("\u201c",'"').replace("\u201d", '"').replace('\u2014',"--").replace('\xef',"'").replace('\xd5',"'")
+    if len(st)>1:
+        while st[-1] == ' ': #stupid space at end
+            st = st[:-1]
+            if len(st)<1:
+                break
+
+    return st.replace("\u2018", "'").replace("\u2019", "'").replace("\u201c",'"').replace("\u201d", '"').replace('\u2014',"--").replace('\xef',"'").replace('\xd5',"'")
 
 def convert_to_tag(st):
-    while st[-1] == ' ' and len(st)>1: #stupid space at end
-        st = st[:-1]
+    if len(st)>1:
+        while len(st)>1: #stupid space at end
+            st = st[:-1]
+            if len(st)<1:
+                break
     return st.replace(" ","_").replace(",","").replace("(","").replace(")","").replace('"',"").replace("'","").lower()
 
 
@@ -54,8 +61,6 @@ with open(sourcedir + filename,'rU') as f:
             ts.append(tg)
         fn = remove_bad_char(row['Family Name'])
         bn = remove_bad_char(row['Species only (deleted all recording info from column E)'])
-        while bn[-1] == ' ' and len(bn)>1: #stupid space at end
-            bn = bn[:-1]
         if fn not in taxon[tg]:
             taxon[tg][fn]=[]
         if bn not in taxon[tg][fn]:
