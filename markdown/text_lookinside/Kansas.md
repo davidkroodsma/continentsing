@@ -1,4 +1,4 @@
-Kansas, June 3-7. 
+####Kansas, June 3-7. 
 
 At 5 A.M., we roll out of the motel room to a Chanute that lies eerily asleep, to a ghost town of quiet streetlights standing sentinel, their nighttime shift nearing an end. About an hour before sunrise, robins rule the planet and airborne purple martins chortle as second in command. We head due west, on West 21st Street.
 
