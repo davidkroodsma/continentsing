@@ -1,4 +1,4 @@
-Missouri, June 2, Prairie State Park. 
+####Missouri, June 2, Prairie State Park. 
 
 Yesterday, we bicycled down gravel NW 150th Lane into the heart of the Park; a vast blue sky welcomed us, extending to the horizon in all directions, with prairie flowers and songbirds and bison escorting us through pristine tallgrass prairie that had never seen a plow. 
 

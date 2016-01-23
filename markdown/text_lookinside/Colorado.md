@@ -1,4 +1,4 @@
-Colorado, Father's day, June 15, Kremmling.
+####Colorado, Father's day, June 15, Kremmling.
 
  Awaking to my 4 A.M. alarm, I'm soon on the road. The orangish glow on the eastern horizon hints of the day to come, and the almost-full moon to the southwest hangs above the 2000-foot canyon carved there by the Colorado River. Outside town, the intense aroma of sage is intoxicating, as are the sounds of all that I hear: swallows singing on the wing, a mountain bluebird too; in what must be a wetland just off the road are yellow warblers, song sparrows, red-winged and yellow-headed blackbirds. Snipe winnow overhead. 
 

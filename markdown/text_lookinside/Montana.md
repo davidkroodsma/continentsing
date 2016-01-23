@@ -1,4 +1,4 @@
-Montana, June 28, Wisdom. 
+####Montana, June 28, Wisdom. 
 
 "3:00 A.M. 6-28"—so declares the lighted watch face when I punch my alarm off. With sunrise well over two hours away, I'm out the motel door, ready for yet another small bite out of our cross-country listening journey. At whatever speed I choose this morning, stopping where I please to look and listen, I will play my way across the sagebrush from here to the forest 11 miles away, and then ascend to Chief Joseph Pass, 25 miles to the west. My son and riding companion will follow later, and we'll meet up at the Pass.
 

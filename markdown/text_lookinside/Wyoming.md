@@ -1,4 +1,4 @@
-Wyoming, June 19-20. 
+####Wyoming, June 19-20. 
 
 A few miles south of Dubois, we bicycle through a surreal wonderland of geologic history: The red, iron-rich sands and shales tell of warm climates during the Age of Reptiles, and the purple and black layers above them are from the Cretaceous, about 150 million years ago _when birds were born_!
 
