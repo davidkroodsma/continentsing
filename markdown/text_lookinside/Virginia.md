@@ -1,4 +1,4 @@
-Virginia, May 9, a Blue Ridge dawn. 
+####Virginia, May 9, a Blue Ridge dawn. 
 
 An hour before sunrise, the rain magically stops as we ease up the ramp to the Parkway just above Afton. White beacons of dogwood blooms line the way as we glide past whip-poor-wills jarring the night, when a roadside bush announces the day with a tentative _chewink_. A towhee, I smile. Others join in, with calling and fragmented singing, _drink_ ... _chewink_ ... _teeeeeee_ ... _your_ ... _chewink_ ... _drink teeeeee_ ..., successive calls and song bits all jumbled. In their dawn frenzy is no hint of the laid-back, repetitive singing they’ll use later in the day. 
 
