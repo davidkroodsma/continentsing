@@ -1,4 +1,4 @@
-Illinois, May 27, Ferne Clyffe State Park. 
+####Illinois, May 27, Ferne Clyffe State Park. 
 
 An hour and a quarter before sunrise, I'm perched at the cliff's edge, comfortable in my camp chair, listening, smiling, breathing deeply, as if a deep breath might capture in my chest all that I feel and see and hear ... purple martins are high overhead, a small cloud of older males drifting about up there, perhaps luring late-migrating yearlings to the colony ... _chuck-WILL'S-WID-ow_, just below, loud and clear, a more faint _WILL'S-WID_ heard from two others in the distance ... an indigo bunting bursts into song, as if unloading some nightmare, then is silent ... and a raucous outburst from a great crested flycatcher, then he too is silent ...
 
