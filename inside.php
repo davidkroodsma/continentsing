@@ -32,7 +32,7 @@
 				
 			<div id="main">
 				
-				<h2>Sample synopses from <em>Listening to a Continent Sing</em></h2>
+				<h2>Sample text from <em>Listening to a Continent Sing</em></h2>
 				
 				<h5>Birdsong coast to coast, from seaside sparrows and laughing gulls on the Atlantic to wrentits and western gulls on the Pacific!</h5>
 				<p>And all from the best seat imaginable, all from the seat of a bicycle, riding through an open-air amphitheater over nearly 5000 miles. We will linger and listen, marveling as pioneers, I tell myself, capitalizing on my decades of birdsong study to listen to this continent sing as no one has before. 
