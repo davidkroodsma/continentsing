@@ -58,14 +58,14 @@
 					
 					
 					</li>
-					<li><a href="#"><span class="i-plus-circle"></span> Illinois</a></li>
-					<li><a href="#"><span class="i-plus-circle"></span> Missouri</a></li>
-					<li><a href="#"><span class="i-plus-circle"></span> Kansas</a></li>
-					<li><a href="#"><span class="i-plus-circle"></span> Colorado</a></li>
-					<li><a href="#"><span class="i-plus-circle"></span> Wyoming</a></li>
-					<li><a href="#"><span class="i-plus-circle"></span> Montana</a></li>
-					<li><a href="#"><span class="i-plus-circle"></span> Idaho</a></li>
-					<li><a href="#"><span class="i-plus-circle"></span> Oregon</a></li>
+					<li><a href="#"><span class="i-plus-circle"></span> Illinois</a><?php include('./birds/text_lookinside/illinois.html');?></li>
+					<li><a href="#"><span class="i-plus-circle"></span> Missouri</a><?php include('./birds/text_lookinside/missouri.html');?></li>
+					<li><a href="#"><span class="i-plus-circle"></span> Kansas</a><?php include('./birds/text_lookinside/kansas.html');?></li>
+					<li><a href="#"><span class="i-plus-circle"></span> Colorado</a><?php include('./birds/text_lookinside/colorado.html');?></li>
+					<li><a href="#"><span class="i-plus-circle"></span> Wyoming</a><?php include('./birds/text_lookinside/wyoming.html');?></li>
+					<li><a href="#"><span class="i-plus-circle"></span> Montana</a><?php include('./birds/text_lookinside/montana.html');?></li>
+					<li><a href="#"><span class="i-plus-circle"></span> Idaho</a><?php include('./birds/text_lookinside/idaho.html');?></li>
+					<li><a href="#"><span class="i-plus-circle"></span> Oregon</a><?php include('./birds/text_lookinside/oregon.html');?></li>
 				
 				</ul>
 				

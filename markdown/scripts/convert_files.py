@@ -97,4 +97,26 @@ for f in onlyfiles:
 		fi.close()
 
 
+
+mypath = "../text_lookinside/"
+mypath_out = "../../birds/text_lookinside/"
+onlyfiles = [f for f in listdir(mypath) if isfile(join(mypath, f))]
+for f in onlyfiles:
+	if ".md" in f:
+		fi = open(mypath+f, "rU")
+		data=fi.read()
+		fi.close()
+		web_text = markdown2.markdown(data)
+		web_text = web_text.replace(u"\u2018", "'").replace(u"\u2019", "'").replace(u"\u201c",'"').replace(u"\u201d", '"').replace(u'\u2014',"--").replace(u'\xef',"'")
+		web_text = web_text.replace(u'\xbd',"1/2")
+		web_text = web_text.replace("../look_inside_images","markdown/look_inside_images")
+		outfile = f.replace(".md","")
+		outfile = outfile.lower() + ".html"
+		fi = open(mypath_out+outfile, "w")
+		fi.write('<div class="synopsis show-hide">\n')
+		fi.write(web_text)
+		fi.write("</div>")
+		fi.close()
+
+
 		
