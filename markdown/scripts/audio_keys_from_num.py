@@ -59,6 +59,7 @@ with open("../../keyarray_numbers.php", "w") as f:
     f.write('''$key_array_order = array( \n''')
     for k in order:
         f.write('"'+k+'" => '+order[k]+',\n')
+    f.write(redirects2)
     f.write("); \n ")
 
     f.write("?>")
