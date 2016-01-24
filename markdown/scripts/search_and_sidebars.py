@@ -16,7 +16,7 @@ def convert_to_tag(st):
             st = st[:-1]
             if len(st)<1:
                 break
-    return st.replace(" ", "_").replace(",", "").replace("(", "").replace(")", "").replace('"', "").replace("'", "").lower()
+    return st.replace(" ", "_").replace(",", "").replace("(", "").replace(")", "").replace('"', "").replace("'", "").replace(".","").lower()
 
 
 keys = {}
