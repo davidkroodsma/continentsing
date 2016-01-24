@@ -5,7 +5,18 @@
 
 <p>He then immediately launches into his jumbled song, with dozens of tiny notes sprayed out over a second and a half. Many are less than 1/100th of a second, a couple a whopping 3/100th of a second in duration, and all reach up to a high frequency of 10,000 Hz.</p>
 
-<p>Listen to these two songs at one quarter speed and you begin to hear the details that the birds themselves hear: 168.1.2615<em>GrSp</em>MO--slowed.</p>
+<p>Listen to these two songs at one quarter speed and you begin to hear the details that the birds themselves hear:</p>
+
+
+				<div id="audio">
+					<audio controls <?php if($autoplay==$number){echo 'autoplay';}?> >
+						<?php $song = "birdsong/".$key_array[$page][$number].".mp3"; ?>
+					    <source src="<?php echo $song; ?>" type="audio/mpeg">
+						Your browser does not support the audio element.
+					</audio>
+					<h5><a class="caps" href="<?php echo $song; $number++;?>" download><span class="i-cloud-download"></span> Download the Recording</a> 
+					</h5>	
+				</div>
 
 <p>He knows what he's doing with these songs, as each is precisely repeated from one time to the next. What he means to say, well, I'm sure he knows, but how he uses these two songs remains a bit of a puzzle to us humans. </p>
 

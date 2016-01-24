@@ -8,7 +8,16 @@
 
 <p>Anyone who wanted to better understand the mind of this house sparrow would drool at the thought of a far longer sequence of songs from this male. When do these two songs occur in the longer sequence? What other songs might be studied? You may have guessed it: I have just such a long, unabridged recording, but it's a bit ugly by some aesthetic standards, with cars passing and making lots of noise. For someone intrigued by these songs, however, the traffic noise is irrelevant, and the longer recording offers all kinds of opportunities for play. It begins with the same 213 songs as this recording (KY-104), but then continues on for over nine minutes. </p>
 
-<p>PLAY LONGER SEQUENCE:  (PLAY 104.1.3555)</p>
+
+				<div id="audio">
+					<audio controls <?php if($autoplay==$number){echo 'autoplay';}?> >
+						<?php $song = "birdsong/".$key_array[$page][$number].".mp3"; ?>
+					    <source src="<?php echo $song; ?>" type="audio/mpeg">
+						Your browser does not support the audio element.
+					</audio>
+					<h5><a class="caps" href="<?php echo $song; $number++;?>" download><span class="i-cloud-download"></span> Download the Recording</a> 
+					</h5>	
+				</div>
 
 <h5>Background</h5>
 
