@@ -1,10 +1,27 @@
 import csv
 
-sourcedir = ''
-filename = "SpeciesLocations.csv"
+def remove_bad_char(st):
+    if len(st)>1:
+        while st[-1] == ' ': # stupid space at end
+            st = st[:-1]
+            if len(st)<1:
+                break
+
+    return st.replace("\u2018", "'").replace("\u2019", "'").replace("\u201c",'"').replace("\u201d", '"').replace('\u2014',"--").replace('\xef',"'").replace('\xd5',"'")
+
+
+def convert_to_tag(st):
+    if len(st)>1:
+        while st[-1] == ' ': # stupid space at end
+            st = st[:-1]
+            if len(st)<1:
+                break
+    return st.replace(" ", "_").replace(",", "").replace("(", "").replace(")", "").replace('"', "").replace("'", "").lower()
+
 
 keys = {}
 species = {}
+# taxon is the dictionary of taxons, ts is a list of them
 taxon = {}
 ts = []
 
@@ -33,24 +50,29 @@ key_to_species = {}
 taxon_long_to_taxon_short = {}
 
 
-def remove_bad_char(st):
-    if len(st)>1:
-        while st[-1] == ' ': # stupid space at end
-            st = st[:-1]
-            if len(st)<1:
-                break
 
-    return st.replace("\u2018", "'").replace("\u2019", "'").replace("\u201c",'"').replace("\u201d", '"').replace('\u2014',"--").replace('\xef',"'").replace('\xd5',"'")
+# get order of species, locations, and others:
+sourcedir = ''
+filename = "species_locations_order.csv"
+
+location_order = {}
+species_order = {}
+species_group_order = {}
+
+with open(sourcedir + filename,'rU') as f:
+    reader = csv.DictReader(f, delimiter=',')
+    for row in reader:
+        if row['state or geographic region']:
+            location_order[remove_bad_char(row['state or geographic region'])] = int(row['table organizer'])
+        if row['Species group']:
+            species_group_order[remove_bad_char(row['Species group'])] = int(row['Rank of species group'])
+        if row['Species']:
+            species_order[remove_bad_char(row['Species'])] = int(row['Species rank'])
 
 
-def convert_to_tag(st):
-    if len(st)>1:
-        while len(st)>1: # stupid space at end
-            st = st[:-1]
-            if len(st)<1:
-                break
-    return st.replace(" ", "_").replace(",", "").replace("(", "").replace(")", "").replace('"', "").replace("'", "").lower()
+# read in the species locations
 
+filename = "SpeciesLocations.csv"
 
 with open(sourcedir + filename,'rU') as f:
     reader = csv.DictReader(f, delimiter=',')
@@ -85,9 +107,14 @@ with open(sourcedir + filename,'rU') as f:
         loc = remove_bad_char(row['Location--full length from file "Web--Listen by state" for LISTEN BY STATE'])
         if loc not in locations:
             locations.append(loc)
-            location_key[loc] = []
+            location_key[loc] = {}
         if bn not in location_key[loc]:
-            location_key[loc].append(bn)
+            location_key[loc][bn] = {'primary':[], 'secondary':[]}
+
+        if status == '1':
+            location_key[loc][bn]['primary'].append(code)
+        if status == '2':
+            location_key[loc][bn]['secondary'].append(code)
 
 
         #state
@@ -117,9 +144,12 @@ with open(sourcedir + filename,'rU') as f:
 
 
 
+
 f = open('../../birds/search-species.html','w')
 
-for t in sorted(ts):
+# sort by the species order
+ts = sorted(ts, key = lambda taxon:species_group_order[taxon])
+for t in ts:
     s = '''<li><a href="#" id="'''+convert_to_tag(t)+'''"><span class="i-plus-circle"></span>'''+t+'''</a>\n  <ul class="show-hide">\n'''
     f.write(s)
     # sorted_taxons = sorted(taxon[t].iteritems())
@@ -128,15 +158,17 @@ for t in sorted(ts):
     for st in taxon[t]:
         s = "    <li><em>"+st+"</em>\n      <ul>\n"
         f.write(s)
-        # print taxon[t][st]
-        birds = sorted(taxon[t][st])
+        # sort by the 
+        print taxon[t][st]
+        birds = sorted(taxon[t][st], key = lambda bird:species_order[bird])
+        print birds
         for b in birds:
             s = '        <li>'+b+' '
             for p in species[b]['primary']:
                 s += '<a href="recording.php?page='+p+'">'+p+'</a>, '
             for p in species[b]['secondary']:
                 s += '<a href="recording.php?page='+p+'">('+p+')</a>, '
-            s = s[:-2] #cut off hte last comma and space
+            s = s[:-2] #cut off the last comma and space
             s +=' </li>\n'
             f.write(s)
         f.write("      </ul>\n    </li>\n")
@@ -146,20 +178,17 @@ f.close()
 
 f = open('../../birds/search-location.html','w')
 
-# for l in locations:
-#     print l
-#print location_key
-
-for l in locations:
+#sort locations by the correct order, using location_order
+for l in sorted(location_key.keys(), key = lambda t:location_order[t]):
     s = '''<li><a href="#" id="'''+convert_to_tag(l)+'''"><span class="i-plus-circle"></span>'''+l+'''</a>\n  <ul class="show-hide">\n'''
     f.write(s)
-    birds = sorted(location_key[l])
-    # print birds
+    # get the list of bird species for a given location, then sort by species order
+    birds = sorted(location_key[l].keys(), key = lambda t:species_order[t])
     for b in birds:
         s = '        <li>'+b+' '
-        for p in species[b]['primary']:
+        for p in location_key[l][b]['primary']:
             s += '<a href="recording.php?page='+p+'">'+p+'</a>, '
-        for p in species[b]['secondary']:
+        for p in location_key[l][b]['secondary']:
             s += '<a href="recording.php?page='+p+'">('+p+')</a>, '
         s = s[:-2] #cut off the last comma and space
         s+=' </li>\n'
