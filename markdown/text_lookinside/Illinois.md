@@ -7,3 +7,5 @@ Just to my right awakes an Acadian flycatcher, a Mosquito Prince, an _Empidonax_
 _Pit-i-tuck_. A summer tanager awakes, soon singing from the small oak just downslope. Like the scarlet, his dawn singing is also disjointed, the song phrases delivered deliberately but continuously, without pit-i-tuck punctuations. 
 
 As shadows give way to emerging colors in the landscape, the dawn singers yield to the day as well, and I listen to their changing voices, focusing on ... warblers, tanagers, buntings, flycatchers ... and nearly two hours after sunrise, I accept that the bicycle awaits, leaving my dawn perch for another day of listening on the road.
+
+![Illinois](../look_inside_images/Illinois-2.jpg)
