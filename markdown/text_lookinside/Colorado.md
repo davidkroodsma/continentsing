@@ -13,11 +13,11 @@ I take the advice from a roadside savannah sparrow, _take     take    take   tak
 ![va-2](../images/woth-1.jpg)
 
 
-![Colorado](../images/Colorado-2.jpg)
+[Colorado](../images/Colorado-2.jpg)
 
 [Colorado-2](../images/Colorado-2.jpg)
 
 [Colorado-2]
 
 
-Photo by John Van de Graaff
+
