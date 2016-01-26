@@ -17,4 +17,4 @@ See and hear how the foreground bird comes to match the background bird with son
 Note the asymmetry in the song exchanges. It is the foreground bird who sings so excitedly, often alternating songs and matching the song that his neighbor offers. The background bird seems to sing more calmly, offering many consecutive renditions of B and then D. The neighbor sings with less passion, it seems, and it is the foreground bird who is trying to keep up, trying to match his neighbor. I wish I knew the relationship between these two birds and all that had transpired between them to produce this kind of exchange.
 
 #####Background
-A few very distant birds, such as northern cardinal, chimney swift, purple martin, American crow, but the real story is the second Carolina wren singing in the background (see below). 
+A few very distant birds, such as northern cardinal, chimney swift, purple martin, American crow, but the real story is the second Carolina wren singing in the background. 
