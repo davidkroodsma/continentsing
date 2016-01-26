@@ -5,3 +5,5 @@
 In a flash we cover the ten miles to a stand of old-growth western red cedars that tower over the road. "_THIS IS THE WEST_," they shout, "_the home of trees tall beyond measure, of cedars and redwoods and sequoias and Doug firs and more_." 
 
 And the home of special birds. From somewhere deep in these cedars, a varied thrush sings. I have marveled at these songs on my computer, where I've played endlessly, slowing them down and speeding them up, listening to long sequences and trying to comprehend the overall effect. I follow along now, the first song high and buzzy; the next is lower pitched, more tonal; next he's high again; always, successive songs are different, the contrast striking. He plays with only four different songs, but each is actually two in one, because he sings two different songs simultaneously with his two voice boxes. "Try whistling and humming at the same time," I suggest to David, "and you get the effect." I listen on, smiling, the effect all the better knowing that Meriwether Lewis first heard and described these varied thrushes near here two hundred years ago. 
+
+![Idaho](../look_inside_images/Idaho-2.jpg)
