@@ -9,3 +9,5 @@ Dickcissels, each male perfectly in tune with the local dialect. _Tup tup tup se
 Cowbirds and meadowlarks and grasshopper sparrows and ... Henslow's sparrows! This is the Prairie, home of Prairie Birds! In a flight of fancy, I _am_ a Henslow's sparrow, delivering my own unique _tsi-lick_ song, beginning high, dipping and then climbing again, feinting, jogging, warbling briefly, pausing, resuming precipitously lower, on and on, each dip and jog and feint lasting no more than 1/100th of a second, the entire cascade of notes in my high-speed roller coaster song beginning near 10 kHz and ending at 3, lasting a glorious half second. 
 
 Back in the campground a special treat awaits: chickadees. On the hybrid zone here, the chickadees are all mixed up, most songs a combination of Carolina and black-cap traits. 
+
+![Missouri](../look_inside_images/Missouri-2.jpg)
