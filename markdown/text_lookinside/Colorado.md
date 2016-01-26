@@ -13,7 +13,7 @@ I take the advice from a roadside savannah sparrow, _take     take    take   tak
 
 ![Colorado](../look_inside_images/Colorado-2.jpg)
 
-![Colorado](../look_inside_images/Colorado-1.tif)
+![Colorado](../look_inside_images/Colorado-2.jpg)
 
 
 
