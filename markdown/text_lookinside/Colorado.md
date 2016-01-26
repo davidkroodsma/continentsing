@@ -10,7 +10,7 @@ Vesper sparrows, rock wrens, western meadowlarks, magpies, nighthawks, horned la
 
 I take the advice from a roadside savannah sparrow, _take     take    take   take-it eeeeeeeaaasssssssyyyyyyy_. Ten seconds later, now well behind me, he repeats the wisdom in his lazy, high-pitched, almost insect-like song.
 
-![va-2](../images/woth-1.jpg)
+![Colorado](../look_inside_images/woth-1.jpg)
 
 
 [Colorado](../images/Colorado-2.jpg)
