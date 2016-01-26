@@ -9,3 +9,5 @@ A lone western marsh wren sings lazily off to the right, buzzing and rattling an
 Just past the Big Hole National Battlefield lies the forest, with flycatchers in full dawn mode. Western wood-pewees, each rapidly alternating his two songs, _tswee-tee-teet ... bzeeyeer ... tswee-tee-teet ... bzeeyeer ..._; dusky flycatchers, _pa-EET prrdurnt PIT-it_, each with three different songs; willow flycatchers, too, _FITZ-bew, FIZZ-bew, creet_ ... olive-sided flycatchers, just one song, _hip! THREE CHEERS!_  ... I listen to each singer in turn, following along, marveling at how expressive he is. 
 
 And thrushes, what a gift to the ears this morning: Mountain bluebirds, robins, veeries, hermit and Swainson's thrushes, a varied thrush, and now a solitaire at the Pass. 
+
+![Montana](../look_inside_images/Montana-2.jpg)
