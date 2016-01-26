@@ -9,3 +9,6 @@ And the thrashers! What remarkable singers, but their territories are far larger
 Vesper sparrows, rock wrens, western meadowlarks, magpies, nighthawks, horned larks ... and there, 5:10 A.M., 25 minutes before sunrise, the first Brewer's sparrow switches to his daytime song, a simple two-parted affair, _zree zree zrrr-zrrr-zrrr_, with no hint of the pre-dawn maestro. With two such different personalities, who would have known it's the same species.
 
 I take the advice from a roadside savannah sparrow, _take     take    take   take-it eeeeeeeaaasssssssyyyyyyy_. Ten seconds later, now well behind me, he repeats the wisdom in his lazy, high-pitched, almost insect-like song. 
+![Colorado](../images/Colorado-2.jpg)
+
+Photo by John Van de Graaff
