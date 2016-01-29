@@ -1,4 +1,4 @@
-<h2><a href="search.php#species-list"><span class="i-bird"></span></a> YELLOW WARBLER and AMERICAN GOLDFINCH
+<h2><a href="search.php#species-list"><span class="i-bird"></span></a> YELLOW WARBLER, AMERICAN GOLDFINCH
  <span class="rec-number"><a href="search.php#number-list"><span class="i-number"></span></a> WY-316
 </span></h2>				
 				<h4 class="location"><span class="i-map-marker"></span> Sweetwater River, Split Rock, near Jeffrey City, Wyoming

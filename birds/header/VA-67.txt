@@ -1,4 +1,4 @@
-<h2><a href="search.php#species-list"><span class="i-bird"></span></a> TERRY OWENS, Park Naturalist at Breaks Interstate Park 
+<h2><a href="search.php#species-list"><span class="i-bird"></span></a> TERRY OWENS (Park Naturalist) 
  <span class="rec-number"><a href="search.php#number-list"><span class="i-number"></span></a> VA-67
 </span></h2>				
 				<h4 class="location"><span class="i-map-marker"></span> Appalachia: Breaks Interstate Park and vicinity, far western Virginia

@@ -1,4 +1,4 @@
-<h2><a href="search.php#species-list"><span class="i-bird"></span></a> INDIGO BUNTING and Hooded Warbler 
+<h2><a href="search.php#species-list"><span class="i-bird"></span></a> INDIGO BUNTING, Hooded Warbler 
  <span class="rec-number"><a href="search.php#number-list"><span class="i-number"></span></a> VA-45
 </span></h2>				
 				<h4 class="location"><span class="i-map-marker"></span> Blue Ridge Parkway, Virginia 

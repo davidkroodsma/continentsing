@@ -1,4 +1,4 @@
-<h2><a href="search.php#species-list"><span class="i-bird"></span></a> HYBRID BLACK-CAPPED X CAROLINA CHICKADEE 
+<h2><a href="search.php#species-list"><span class="i-bird"></span></a> CHICKADEE HYBRIDS 
  <span class="rec-number"><a href="search.php#number-list"><span class="i-number"></span></a> MO-149
 </span></h2>				
 				<h4 class="location"><span class="i-map-marker"></span> Prairie State Park, Mindenmines, Missouri

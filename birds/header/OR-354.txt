@@ -1,4 +1,4 @@
-<h2><a href="search.php#species-list"><span class="i-bird"></span></a> SPOTTED TOWHEE and SWAINSON’S THRUSH
+<h2><a href="search.php#species-list"><span class="i-bird"></span></a> SPOTTED TOWHEE, SWAINSON’S THRUSH
  <span class="rec-number"><a href="search.php#number-list"><span class="i-number"></span></a> OR-354
 </span></h2>				
 				<h4 class="location"><span class="i-map-marker"></span> Willamette Valley, William L. Finley National Wildlife Refuge, Oregon

@@ -1,4 +1,4 @@
-<h2><a href="search.php#species-list"><span class="i-bird"></span></a> BLACK-CAPPED CHICKADEE
+<h2><a href="search.php#species-list"><span class="i-bird"></span></a> BLACK-CAPPED CHICKADEE, BLACKBURNIAN WARBLER
  <span class="rec-number"><a href="search.php#number-list"><span class="i-number"></span></a> VA-58
 </span></h2>				
 				<h4 class="location"><span class="i-map-marker"></span> Highlands of western Virginia: Mountain Lake 
