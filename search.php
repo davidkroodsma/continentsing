@@ -563,7 +563,7 @@
 					<h2>listen to the dawn chorus</h2>
 					<p>Surf the wave of dawn’s first light and birdsong across the continent, listening to how birds greet each new day. 
 					I offer two ways that you might want to explore the dawn chorus.</p>
-					<p>You can use the <strong>Quick index by state</strong> to immerse yourself in the dawn chorus in any state of your choice, from Virginia to Oregon. Or try the <strong>Index by species</strong>. Listen to how eastern species pass the torch to their western cousins. Check out the tanagers, or Empidonax flycatchers, or warblers, for example.</p>
+					<p>You can use the <strong>Quick index by state</strong> to immerse yourself in the dawn chorus in any state of your choice, from Virginia to Oregon. Or try the <strong>Index by species</strong>. Listen to how eastern species pass the torch to their western cousins. Check out the tanagers, or <em>Empidonax</em> flycatchers, or warblers, for example.</p>
 					
 					
 					<h3>Quick index by state</h3>
