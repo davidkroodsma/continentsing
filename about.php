@@ -5,7 +5,7 @@
 		<meta charset="UTF-8" />
 		<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
 		
-		<title>Listening to a Continent Sing : About the book</title>
+		<title>Listening to a Continent Sing : Learn more</title>
 		
 		<meta name="description" content="Listening to a Continent Sing: the companion website to the book by Donald Kroodsma" />
 		<meta name="viewport" content="width=device-width, initial-scale=1.0" />
