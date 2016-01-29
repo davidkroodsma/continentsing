@@ -34,7 +34,7 @@
 				
 				<div id="about">
 				
-					<h5>Join birdsong expert Donald Kroodsma on a ten-state bicycle journey as he travels from the Atlantic to the Pacific, lingering and listening to our continent sing as no one has before.</h5>
+					<h5>Join birdsong expert Donald Kroodsma on a ten-state bicycle journey as he travels with his son David from the Atlantic to the Pacific, lingering and listening to our continent sing as no one has before.</h5>
 					
 				</div><!--about-->
 				
@@ -74,7 +74,7 @@
 							<a class="icon-link" href="search.php#dawn-chorus-list"><span class="i-dawn"></span></a>
 							<div class="menu-text">
 								<h4><a href="search.php#dawn-chorus-list">The Dawn Chorus</a></h4>
-								<p>Surf the wave of dawn’s first light, listening to how birds greet each new day.</p>
+								<p>Surf the wave of dawn’s first light, listening to special recordings of how birds greet each new day.</p>
 							</div>
 						</div><!--dawn-chorus-->
 						
@@ -89,7 +89,7 @@
 				<div id="book">
 					<img src="assets/img/book.png" alt="" />
 					<h4><a class="caps" href="http://www.amazon.com/Listening-Continent-Sing-Birdsong-Atlantic/dp/0691166811/ref=tmm_hrd_swatch_0?_encoding=UTF8&qid=1453484900&sr=8-3" target="_blank"><span class="i-book"></span> Buy the Book</a></h4>
-					<h4><a class="caps" href="about.php"><span class="i-info"></span> About the Book</a></h4>
+					<h4><a class="caps" href="about.php"><span class="i-info"></span> Learn more</a></h4>
 					<h4><a class="caps" href="inside.php"><span class="i-binoculars"></span> Look Inside</a></h4>
 				</div><!--book-->
 			
