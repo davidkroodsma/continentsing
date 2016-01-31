@@ -11,7 +11,7 @@ mypathout = "../images/"
 onlyfiles = [f for f in listdir(mypath) if isfile(join(mypath, f))]
 basewidth = 271
 for f in onlyfiles:
-	if ".jpg" in f:
+	if ".jpg" in f or "JPG" in f or "jpeg" in f or "JPEG" in f:
 		img = Image.open(mypath+f)
 		wpercent = (basewidth / float(img.size[0]))
 		hsize = int((float(img.size[1]) * float(wpercent)))
