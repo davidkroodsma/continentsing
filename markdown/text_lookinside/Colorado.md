@@ -13,18 +13,3 @@ I take the advice from a roadside savannah sparrow, _take     take    take   tak
 
 ![Colorado](../look_inside_images/Colorado-2.jpg)
 
-
-![Colorado](../look_inside_images/Illinois-0.jpg)
-
-![Colorado](../look_inside_images/Colorado-0.jpg)
-
-![Colorado](../look_inside_images/Oregon-0.jpg)
-
-![Colorado](../look_inside_images/Virginia-0.jpg)
-
-![Colorado](../look_inside_images/Idaho-0.jpg)
-
-![Colorado](../look_inside_images/Montana-0.jpg)
-
-
-
