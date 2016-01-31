@@ -84,7 +84,7 @@
 				<div id="book">
 					<img src="assets/img/book.png" alt="" />
 					<h4><a class="caps" href="http://www.amazon.com/Listening-Continent-Sing-Birdsong-Atlantic/dp/0691166811/ref=tmm_hrd_swatch_0?_encoding=UTF8&qid=1453484900&sr=8-3" target="_blank"><span class="i-book"></span> Buy the Book</a></h4>
-					<h4><a class="caps" href="about.php"><span class="i-info"></span> About the Book</a></h4>
+					<h4><a class="caps" href="about.php"><span class="i-info"></span> Learn more</a></h4>
 					<h4><a class="caps" href="inside.php"><span class="i-binoculars"></span> Look Inside</a></h4>
 				</div>
 				
