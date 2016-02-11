@@ -23,6 +23,7 @@
 		
 	</head>
 	<body class="home">
+	<?php include_once("analyticstracking.php") ?>
 		<header class="wrap">
 			<h1 class="center"><a href="#">Listening to a Continent Sing</a></h1>
 			<h4 class="center">the companion website to the book by Donald Kroodsma</h4>
@@ -104,3 +105,4 @@
 		
 	</body>
 </html>
+

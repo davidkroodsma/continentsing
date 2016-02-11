@@ -44,6 +44,7 @@
 	    </script>
 	</head>
 	<body class="search" onload="dropdown('<?php echo($dropdown); ?>');">
+	<?php include_once("analyticstracking.php") ?>
 		
 		<header class="wrap">
 			<h1 class="center"><a href="index.php">Listening to a Continent Sing</a></h1>

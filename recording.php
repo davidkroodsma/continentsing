@@ -30,6 +30,7 @@
 		
 	</head>
 	<body class="recording">
+	<?php include_once("analyticstracking.php") ?>
 		
 		<header class="wrap">
 			<h1 class="center"><a href="index.php">Listening to a Continent Sing</a></h1>

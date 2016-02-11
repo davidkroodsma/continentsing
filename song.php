@@ -35,7 +35,7 @@ $autoplay = (isset($_GET['autoplay']))? $_GET['autoplay'] : true;
 	</style>
 	</head>
 <body>
-
+<?php include_once("analyticstracking.php") ?>
 <div><audio controls <?php if($autoplay){echo 'autoplay';}?> >
   <source src="<?php echo $song; ?>" type="audio/mpeg">
 Your browser does not support the audio element.
