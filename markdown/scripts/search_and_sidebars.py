@@ -59,11 +59,20 @@ location_order = {}
 species_order = {}
 species_group_order = {}
 
+revise_locs = {}
+
 with open(sourcedir + filename,'rU') as f:
     reader = csv.DictReader(f, delimiter=',')
     for row in reader:
         if row['state or geographic region']:
-            location_order[remove_bad_char(row['state or geographic region'])] = int(row['table organizer'])
+            loc = remove_bad_char(row['state or geographic region'])
+            location_order[loc] = int(row['table organizer'])
+
+            loc_reviesed = remove_bad_char(row["Revised state or geographic region"])
+            revise_locs[loc]=loc_reviesed
+
+
+        revise_locs[loc] = loc_reviesed
         if row['Species group']:
             species_group_order[remove_bad_char(row['Species group'])] = int(row['Rank of species group'])
         if row['Species']:
@@ -73,6 +82,7 @@ with open(sourcedir + filename,'rU') as f:
 # read in the species locations
 
 filename = "SpeciesLocations.csv"
+
 
 with open(sourcedir + filename,'rU') as f:
     reader = csv.DictReader(f, delimiter=',')
@@ -105,6 +115,7 @@ with open(sourcedir + filename,'rU') as f:
         #location
 
         loc = remove_bad_char(row['Location--full length from file "Web--Listen by state" for LISTEN BY STATE'])
+
         if loc not in locations:
             locations.append(loc)
             location_key[loc] = {}
@@ -180,7 +191,7 @@ f = open('../../birds/search-location.html','w')
 
 #sort locations by the correct order, using location_order
 for l in sorted(location_key.keys(), key = lambda t:location_order[t]):
-    s = '''<li><a href="#" id="'''+convert_to_tag(l)+'''"><span class="i-plus-circle"></span>'''+l+'''</a>\n  <ul class="show-hide">\n'''
+    s = '''<li><a href="#" id="'''+convert_to_tag(l)+'''"><span class="i-plus-circle"></span>'''+revise_locs[l]+'''</a>\n  <ul class="show-hide">\n'''
     f.write(s)
     # get the list of bird species for a given location, then sort by species order
     birds = sorted(location_key[l].keys(), key = lambda t:species_order[t])
