@@ -169,9 +169,7 @@ for t in ts:
         s = "    <li><em>"+st+"</em>\n      <ul>\n"
         f.write(s)
         # sort by the 
-        print taxon[t][st]
         birds = sorted(taxon[t][st], key = lambda bird:species_order[bird])
-        print birds
         for b in birds:
             s = '        <li>'+b+' '
             for p in species[b]['primary']:
@@ -193,7 +191,9 @@ for l in sorted(location_key.keys(), key = lambda t:location_order[t]):
     s = '''<li><a href="#" id="'''+convert_to_tag(l)+'''"><span class="i-plus-circle"></span>'''+revise_locs[l]+'''</a>\n  <ul class="show-hide">\n'''
     f.write(s)
     # get the list of bird species for a given location, then sort by species order
+    print location_key[l].keys()
     birds = sorted(location_key[l].keys(), key = lambda t:species_order[t])
+    print birds
     for b in birds:
         s = '        <li>'+b+' '
         for p in location_key[l][b]['primary']:
@@ -211,7 +211,7 @@ f.close()
 #now state names for the dawn chorus
 
 
-
+print "\n\n"
 #read in the Dawn Chorus csv
 
 dawn_chorus = []
@@ -228,7 +228,6 @@ with open(sourcedir + filename, 'rU') as f:
 
 f = open('../../birds/search-dc-states.html','w')
 for st in s_ordered:
-    print st
     s = '''<li><a href="#" id="'''+convert_to_tag(st)+'''"><span class="i-plus-circle"></span>'''+st+'''</a>\n  <ul class="show-hide">\n'''
     f.write(s)
     birds = []
@@ -237,9 +236,7 @@ for st in s_ordered:
             if remove_bad_char(row['species']) not in birds:
                 birds.append(remove_bad_char(row['species']))    # print birds
 
-
-    birds = sorted(birds, key = lambda t:species_order[t])
-    for b in birds:
+    for b in sorted(birds, key = lambda t:species_order[t]):
         s = '        <li>'+b+' '
         for p in species[b]['primary']:
             if p in pages_in_dc and s_ab[p[:2]]==st: # has to be in dawn chorus recordings
@@ -267,7 +264,6 @@ dawn_chorus = sorted(dawn_chorus, key=lambda k: int(k['Table organizer']))
 
 f = open('../../birds/search-dc-species.html', 'w')
 for st in dc_species:
-    print st
     s = '''<li><a href="#" id="'''+convert_to_tag(st)+'''"><span class="i-plus-circle"></span>'''+st+'''</a>\n  <ul class="show-hide">\n'''
     f.write(s)
     birds = []
@@ -276,7 +272,7 @@ for st in dc_species:
             if remove_bad_char(row['species']) not in birds:
                 birds.append(remove_bad_char(row['species']))
     # print birds
-    for b in birds:
+    for b in sorted(birds, key = lambda t:species_order[t]):
         s = '        <li>'+b+' '
         for p in species[b]['primary']:
             if p in pages_in_dc: # has to be in dawn chorus recordings
