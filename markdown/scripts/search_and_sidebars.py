@@ -67,7 +67,6 @@ with open(sourcedir + filename,'rU') as f:
         if row['state or geographic region']:
             loc = remove_bad_char(row['state or geographic region'])
             location_order[loc] = int(row['table organizer'])
-
             loc_reviesed = remove_bad_char(row["Revised state or geographic region"])
             revise_locs[loc]=loc_reviesed
 
@@ -237,6 +236,9 @@ for st in s_ordered:
         if row['State'] == st:
             if remove_bad_char(row['species']) not in birds:
                 birds.append(remove_bad_char(row['species']))    # print birds
+
+
+    birds = sorted(birds, key = lambda t:species_order[t])
     for b in birds:
         s = '        <li>'+b+' '
         for p in species[b]['primary']:
