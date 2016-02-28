@@ -32,8 +32,10 @@ with open(sourcedir + filename,'rU') as f:
     for row in reader:
         bn = remove_bad_char(row['Species only (deleted all recording info from column E)'])
         code = row['state-#']
-        birdnames.append(bn)
-        codes.append(code)
+        importance = row['1 = primary; 2 = (bkgd)']
+        if importance == "1":
+            birdnames.append(bn)
+            codes.append(code)
 
 
 f = open('../../birds/search-list.html','w')
