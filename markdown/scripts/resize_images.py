@@ -13,6 +13,7 @@ basewidth = 271
 for f in onlyfiles:
 	if ".jpg" in f or "JPG" in f or "jpeg" in f or "JPEG" in f:
 		img = Image.open(mypath+f)
+		print img.size[0], img.size[1]
 		wpercent = (basewidth / float(img.size[0]))
 		hsize = int((float(img.size[1]) * float(wpercent)))
 		img = img.resize((basewidth, hsize), PIL.Image.ANTIALIAS)

@@ -77,7 +77,8 @@
 					<h2>search recordings by number</h2>
 					<p>Listen by number, as referenced in the book’s text; state abbreviations are added as a prefix. Simply click on any of the 381 numbers, such as CO-280, where you’ll be whisked away to Colorado, listening to yellow-headed blackbirds.</p>
 					<ul>
-						<li><a href="recording.php?page=VA-1">VA-1</a></li>
+						<?php include("./birds/search-list.html"); ?>
+		<!-- 				<li><a href="recording.php?page=VA-1">VA-1</a></li>
 						<li><a href="recording.php?page=VA-2">VA-2</a></li>
 						<li><a href="recording.php?page=VA-3">VA-3</a></li>
 						<li><a href="recording.php?page=VA-4">VA-4</a></li>
@@ -444,7 +445,7 @@
 						<li><a href="recording.php?page=OR-377">OR-377</a></li>
 						<li><a href="recording.php?page=OR-378">OR-378</a></li>
 						<li><a href="recording.php?page=OR-379">OR-379</a></li>
-						<li><a href="recording.php?page=OR-381">OR-381</a></li>
+						<li><a href="recording.php?page=OR-381">OR-381</a></li> -->
 					</ul>
 				</div><!--number-list-->
 				
