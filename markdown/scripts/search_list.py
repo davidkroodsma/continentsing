@@ -33,7 +33,7 @@ with open(sourcedir + filename,'rU') as f:
         bn = remove_bad_char(row['Species only (deleted all recording info from column E)'])
         code = row['state-#']
         birdnames.append(bn)
-        codes.append(bn)
+        codes.append(code)
 
 
 f = open('../../birds/search-list.html','w')
