@@ -46,6 +46,9 @@
 				<h3>Listen with your eyes</h3>
 				<p>People often assume that I have remarkable ears, but it is really 40 years of listening with my eyes that gives me the advantage. Yes, listening with my eyes, as it is seeing the musical scores (i.e., sonagrams) of birdsong while I listen that allows me to hear all the better. I use the Raven program from Cornell, and <a href=http://www.birds.cornell.edu/brp/raven/RavenOverview.html>Raven-lite</a> is free from the Cornell Laboratory of Ornithology. You can download all of the sounds on this website and import them directly into Raven, where you can watch and listen, slowing songs down so that your ears and eyes pick out all the details that the birds themselves can hear. Using both your eyes and your ears, you will be astonished at all you begin to hear.</p>
 				
+				<h3>Enjoy the sounds!</h3>
+				<p>The recordings are for your personal use (not commercial, etc.). Please download and enjoy; study them in Raven-lite and give your ears a boost. </p>				
+				
 		
 				<h3>Credits</h3>
 				<p>I owe an enormous thank you to <a href="http://Birdsbyjohn.com">John Van de Graaff</a> for offering so many of his bird photos to grace this website. Also especially generous were Brian L. Sullivan of the <a href="#">Cornell Lab of Ornithology</a>, <a href="http://www.natureimagesandsounds.com/">Wil Hershberger</a>, and <a href="http://roysephotos.com/">Robert Royse</a>. Web design was by <a href="http://www.ehwdesign.com/">Ethan Hazard-Watkins</a>; web development by <a href="http://kroodsma.com/">David Kroodsma</a>, my extraordinary son and bicycling companion on our coast-to-coast listening adventure, and author of <a href="http://rideforclimate.com/">The Bicycle Diaries: My 21,000 Mile Ride for the Climate</a>.</p>				
