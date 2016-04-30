@@ -966,6 +966,7 @@ body.recording #menu.side a{
 
 .imageInside{
 	float:left;
+	padding-right:7px;
 }
 
 /* @end Clearfix */
