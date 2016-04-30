@@ -1016,7 +1016,7 @@ body.recording #menu.side a{
 		page-break-after: avoid;
 	}
 
-	.synopsis .floatimages img{
+	.synopsis img{
 		float:left;
 	}
 }
