@@ -963,6 +963,11 @@ body.recording #menu.side a{
 .group {
 	*zoom: 1;
 }
+
+.imageInside{
+	float:left;
+}
+
 /* @end Clearfix */
 
 
@@ -1016,9 +1021,7 @@ body.recording #menu.side a{
 		page-break-after: avoid;
 	}
 
-	.imageInside{
-		float:left;
-	}
+
 }
 
 
