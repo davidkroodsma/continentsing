@@ -1,7 +1,6 @@
 import PIL
 from PIL import Image
 
-
 from os import listdir
 from os.path import isfile, join
 
@@ -14,7 +13,7 @@ for f in onlyfiles:
 	if ".jpg" in f:
 
 		img = Image.open(mypath+f)
-		print img.size[0], img.size[1]
+		if img.size[0] > img.size[1]
 
 		wpercent = (basewidth / float(img.size[0]))
 		hsize = int((float(img.size[1]) * float(wpercent)))
