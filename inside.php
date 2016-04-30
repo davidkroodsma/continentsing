@@ -31,7 +31,7 @@
 		
 		<div id="content" class="wrap group">
 				
-			<div id="main">
+			<div id="main" class="floatimages">
 				
 				<h2>Sample text from <em>Listening to a Continent Sing</em></h2>
 				
