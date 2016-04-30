@@ -110,6 +110,7 @@ for f in onlyfiles:
 		web_text = web_text.replace(u"\u2018", "'").replace(u"\u2019", "'").replace(u"\u201c",'"').replace(u"\u201d", '"').replace(u'\u2014',"--").replace(u'\xef',"'")
 		web_text = web_text.replace(u'\xbd',"1/2")
 		web_text = web_text.replace("../look_inside_images","markdown/look_inside_images")
+		web_text = web_text.replace('<img src','<img class="imageInside" src')
 		outfile = f.replace(".md","")
 		outfile = outfile.lower() + ".html"
 		fi = open(mypath_out+outfile, "w")
