@@ -6,7 +6,7 @@ I pedal on, slowly, savoring the now. The sage glows in the moonlight, and risin
 
 ![Colorado](../look_inside_images/Colorado-0.jpg)
 
-And the thrashers! What remarkable singers, but their territories are far larger, and I pass only one for every ten sparrows. Each races through his repertoire of hundreds of different sounds (about 700 in one bird I studied carefully), every half second (0.57 seconds to be exact, on average) hustling on to another sound at break-neck speed. And I hear their mimicry—how they love meadowlarks and Brewer's sparrows. They too are a package singers, favoring one set of songs for a time before moving on to others, though it takes hours (at least eight) rather than minutes for him to tell all he knows.
+And the thrashers! What remarkable singers, but their territories are far larger, and I pass only one for every ten sparrows. Each races through his repertoire of hundreds of different sounds (about 700 in one bird I studied carefully), every half second (0.57 seconds to be exact, on average) hustling on to another sound at break-neck speed. And I hear their mimicry—how they love meadowlarks and Brewer's sparrows. He too is a package singer, favoring one set of songs for a time before moving on to others, though it takes hours (at least eight) rather than minutes for him to tell all he knows.
  
 Vesper sparrows, rock wrens, western meadowlarks, magpies, nighthawks, horned larks ... and there, 5:10 A.M., 25 minutes before sunrise, the first Brewer's sparrow switches to his daytime song, a simple two-parted affair, _zree zree zrrr-zrrr-zrrr_, with no hint of the pre-dawn maestro. With two such different personalities, who would have known it's the same species.
 
