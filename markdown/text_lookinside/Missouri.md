@@ -2,7 +2,7 @@
 
 Yesterday, we bicycled down gravel NW 150th Lane into the heart of the Park; a vast blue sky welcomed us, extending to the horizon in all directions, with prairie flowers and songbirds and bison escorting us through pristine tallgrass prairie that had never seen a plow. 
 
-![Missouri](../look_inside_images/ Missouri-1.jpg)
+![Missouri](../look_inside_images/Missouri-1.jpg)
 
 Come dawn, I'm out of the campground and into the prairie ... standing beside an isolated bush from which a Bell's vireo sings. I listen, recalling the few facts I know of his kind. Has maybe half a dozen different songs. Typically alternates two or three different songs, clearly heard by how distinctively some song endings rise and some fall. I listen for a recognizable song, knowing that it may occur 15-20 times among 50 or so songs over a few minutes, and then it will disappear, returning minutes later ... Yes, I hear all that. He's a "package singer," like chats and robins, like yellow-throated and blue-headed vireos, as he bundles certain of his songs together during his performance.
 
