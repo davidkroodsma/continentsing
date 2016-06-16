@@ -2,7 +2,7 @@
 
 A birthday present to myself, I again ride early, now out of Dayville by streetlight. On the right, from high in the trees near the post office, zip code 93825, a single wood-pewee alternates his two dawn songs. A deer spooks beside the road and crashes off through the brush. Just outside of town a western kingbird sputters through his dawn songs, and in the lush riparian habitat along the river I soon hear robins, song sparrows, yellow warblers, house wrens, house finches, lazuli buntings. To the left a California quail offers his _chi-CAH-go_, and high above a nighthawk calls. 
 
-![Oregon](../look_inside_images/ Oregon-0.jpg)
+![Oregon](../look_inside_images/Oregon-0.jpg)
 
 As night eases into day, I have the world all to myself. It's just as Aldo Leopold wrote in his _Sand County Almanac_; the land deeds in the local courthouse mean nothing, because at this time of the morning the world belongs to me. With clear skies above and the temperature in the mid-50s, my bike rolls effortlessly down my valley along my John Day River. I am a rich man.
 
