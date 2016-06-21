@@ -8,18 +8,19 @@ mypath = "../look_inside_images/"
 mypathout = "../look_inside_images/"
 
 onlyfiles = [f for f in listdir(mypath) if isfile(join(mypath, f))]
-basewidth = 450
+basewidth = 650
 for f in onlyfiles:
 	if ".jpg" in f:
 
 		img = Image.open(mypath+f)
 		if img.size[0] > img.size[1]:
-			wpercent = (basewidth / float(img.size[0]))
+			wpercent = (basewidth/ float(img.size[0]))
 			hsize = int((float(img.size[1]) * float(wpercent)))
 			img = img.resize((basewidth, hsize), PIL.Image.ANTIALIAS)
 			img.save(mypathout+f)
 		else:
-			baseheight = basewidth
+			baseheight = int(basewidth*.5)
+			baseheight2 = int(baseheight *.5)
 			hpercent = (baseheight / float(img.size[1]))
 			wsize = int((float(img.size[0]) * float(hpercent)))
 			img = img.resize((wsize, baseheight), PIL.Image.ANTIALIAS)
