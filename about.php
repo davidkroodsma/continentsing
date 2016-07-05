@@ -40,6 +40,7 @@
 				<p>Listening to a Continent Sing is also a guided tour through the history of a young nation and the geology of an ancient landscape, and an invitation to set aside the bustle of everyday life to follow one's dreams. It is a celebration of flowers and trees, rocks and rivers, mountains and prairies, clouds and sky, headwinds and calm, and of local voices and the people you will meet along the way. It is also the story of a father and son deepening their bond as they travel the slow road together from coast to coast.</p>
 				<p>Beautifully illustrated throughout with drawings of birds and scenes and featuring QR codes that link to audio birdsong, this poignant and insightful book takes you on a travel adventure unlike any other--accompanied on every leg of your journey by birdsong.</p>
 				<p>For a closer look, check out the <a href="https://vimeo.com/166860214">video trailer</a> for the book. </p>
+				<p>To see what others are saying about this book, see <a href="https://http://donaldkroodsma.com/?page_id=1671">The Reviews</a>. </p>
 				
 				<h3>About the author</h3> 
 				<p>Donald Kroodsma is professor emeritus of ornithology at the University of Massachusetts, Amherst, and a world-renowned authority on birdsong. He is the author of <em>The Singing Life of Birds</em>, <em>The Backyard Birdsong Guides</em>, and <em>Birdsong by the Seasons</em>. He lives in Hatfield, Massachusetts. For more information, see <a href="http://DonaldKroodsma.com">DonaldKroodsma.com</a>. </p>
